@@ -11,9 +11,11 @@ class MsgPack:
     def load(file_path: str) -> dict:
         """Open and unpack Msgpack file"""
         f = open(file_path,'rb')
-        msg = msgpack.load(f)
-        
-        return msg
+        try:
+            msg = msgpack.load(f)
+            return msg
+        except msgpack.exceptions.ExtraData:
+            pass
 
     @staticmethod
     def save(file_path: str, save_path: str):

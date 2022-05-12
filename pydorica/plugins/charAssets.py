@@ -2,7 +2,7 @@
 # coding: utf-8
 
 import httpx
-
+import json
 
 class CharAssets:
 
@@ -11,4 +11,9 @@ class CharAssets:
 
     @staticmethod
     def download(json_file, save_path):
-        pass
+        data = json.load(open(json_file, 'r'))
+        url = data['A']['CharAssets.zip']['L']
+        res = httpx.get(url,timeout=120)
+        with open(save_path,'wb') as f:
+            f.write(res.content)
+            f.close()

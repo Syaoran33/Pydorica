@@ -25,4 +25,4 @@ class Imperium:
                 file_name = item.parent.name + '.json'
                 save_path = output_path.joinpath(file_name)
                 file_path = item.absolute()
-                MsgPack.save(file_path, save_path)
+                MsgPack.save(str(file_path), str(save_path))
