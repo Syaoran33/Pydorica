@@ -64,5 +64,3 @@ class Zipper:
             print(extract_path)
             json_file = open(extract_path,'wb')
             json_file.write(json_data)
-            # self.zfile.extract(item,extract_path)
-            # item.extract(extract_path)
