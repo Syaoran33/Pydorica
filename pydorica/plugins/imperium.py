@@ -12,7 +12,7 @@ class Imperium:
 
     def __init__(self, imperium_dir_path: str) -> None:
         self.path = Path(imperium_dir_path)
-        self.path.mkdir(777, exist_ok=True)
+        self.path.mkdir(777, exist_ok=True, parents=True)
 
     def ls(self):
         """Just list item"""
@@ -23,7 +23,7 @@ class Imperium:
     def unpack(self, output_path: str):
         """Unpack all file to json"""
         output_path = Path(output_path)
-        output_path.mkdir(777, exist_ok=True)
+        output_path.mkdir(777, exist_ok=True, parents=True)
         for item in self.path.rglob('*'):
             if item.is_file():
                 file_name = item.parent.name + '.json'
@@ -57,7 +57,7 @@ class Imperium:
                     frame_data = data[file_name]['D']
                     df = pd.DataFrame(frame_data,columns=frame_columns)
                     file_path = file_name+'.xlsx'
-                    save_path.joinpath(type_).mkdir(777, exist_ok=True)
+                    save_path.joinpath(type_).mkdir(777, exist_ok=True, parents=True)
                     df.to_excel(save_path.joinpath(type_,file_path),index=False)
         to_excel(localization,'localization')
         to_excel(gamedata,'gamedata',black_list=['DisableWords'])

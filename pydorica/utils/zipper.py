@@ -18,19 +18,19 @@ class Zipper:
 
     def unpack_all(self,save_dir_path:str):
         dir_path = Path(save_dir_path)
-        dir_path.mkdir(777,exist_ok=True)
+        dir_path.mkdir(777,exist_ok=True, parents=True)
         raws_path = dir_path.joinpath('raws')
         if raws_path.exists():
             for path in raws_path.rglob('*'):
                 path.unlink()
-        raws_path.mkdir(777,exist_ok=True)
+        raws_path.mkdir(777,exist_ok=True, parents=True)
         self.zfile.extractall(raws_path)
 
 
     def unzip_c(self, save_dir_path:str):
         # path
         dir_path = Path(save_dir_path)
-        dir_path.mkdir(777,exist_ok=True)
+        dir_path.mkdir(777,exist_ok=True, parents=True)
 
         # Update
         def update(classify):
@@ -38,7 +38,7 @@ class Zipper:
             if dir_path_c.exists:
                 for path in dir_path_c.rglob('*'):
                     path.unlink()
-            dir_path_c.mkdir(777,exist_ok=True)
+            dir_path_c.mkdir(777,exist_ok=True, parents=True)
         update('battlecharacter')
         update('buff')
         update('condition')
