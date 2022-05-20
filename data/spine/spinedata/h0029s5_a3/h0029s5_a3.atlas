@@ -1,0 +1,279 @@
+
+h0029s5_a3.png
+size: 948,948
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: false
+  xy: 118, 1
+  size: 160, 73
+  orig: 160, 73
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 585, 649
+  size: 143, 189
+  orig: 143, 189
+  offset: 0, 0
+  index: -1
+body_turn
+  rotate: false
+  xy: 789, 480
+  size: 143, 189
+  orig: 143, 189
+  offset: 0, 0
+  index: -1
+effect1
+  rotate: false
+  xy: 0, 89
+  size: 376, 395
+  orig: 376, 395
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: true
+  xy: 533, 618
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 443, 637
+  size: 75, 48
+  orig: 75, 48
+  offset: 0, 0
+  index: -1
+food
+  rotate: true
+  xy: 64, 500
+  size: 104, 39
+  orig: 104, 39
+  offset: 0, 0
+  index: -1
+food1
+  rotate: false
+  xy: 771, 34
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+food2
+  rotate: true
+  xy: 389, 516
+  size: 106, 49
+  orig: 106, 49
+  offset: 0, 0
+  index: -1
+food3
+  rotate: false
+  xy: 861, 48
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 221, 503
+  size: 84, 119
+  orig: 84, 119
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 118, 503
+  size: 88, 101
+  orig: 88, 101
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 320, 504
+  size: 54, 118
+  orig: 54, 118
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 758, 287
+  size: 181, 178
+  orig: 181, 178
+  offset: 0, 0
+  index: -1
+head_turn
+  rotate: false
+  xy: 579, 253
+  size: 164, 178
+  orig: 164, 178
+  offset: 0, 0
+  index: -1
+l_arm_dwn
+  rotate: false
+  xy: 579, 3
+  size: 79, 126
+  orig: 79, 126
+  offset: 0, 0
+  index: -1
+l_arm_up
+  rotate: true
+  xy: 434, 2
+  size: 75, 130
+  orig: 75, 130
+  offset: 0, 0
+  index: -1
+l_horn
+  rotate: false
+  xy: 496, 145
+  size: 99, 93
+  orig: 99, 93
+  offset: 0, 0
+  index: -1
+l_leg_dwn
+  rotate: true
+  xy: 559, 446
+  size: 79, 184
+  orig: 79, 184
+  offset: 0, 0
+  index: -1
+l_leg_up
+  rotate: true
+  xy: 581, 540
+  size: 94, 184
+  orig: 94, 184
+  offset: 0, 0
+  index: -1
+l_pant
+  rotate: true
+  xy: 758, 144
+  size: 128, 177
+  orig: 128, 177
+  offset: 0, 0
+  index: -1
+mask
+  rotate: true
+  xy: 391, 296
+  size: 136, 45
+  orig: 136, 45
+  offset: 0, 0
+  index: -1
+mask1
+  rotate: true
+  xy: 391, 447
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+mask2
+  rotate: false
+  xy: 0, 0
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+mouth_close
+  rotate: false
+  xy: 528, 580
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: true
+  xy: 528, 526
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 453, 523
+  size: 60, 99
+  orig: 60, 99
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 789, 684
+  size: 144, 87
+  orig: 144, 87
+  offset: 0, 0
+  index: -1
+r_arm_dwn
+  rotate: true
+  xy: 610, 151
+  size: 87, 132
+  orig: 87, 132
+  offset: 0, 0
+  index: -1
+r_arm_up
+  rotate: false
+  xy: 673, 4
+  size: 83, 125
+  orig: 83, 125
+  offset: 0, 0
+  index: -1
+r_horn
+  rotate: false
+  xy: 585, 807
+  size: 193, 141
+  orig: 193, 141
+  offset: 0, 0
+  index: -1
+r_leg_dwn
+  rotate: false
+  xy: 391, 92
+  size: 90, 180
+  orig: 90, 180
+  offset: 0, 0
+  index: -1
+r_leg_up
+  rotate: false
+  xy: 453, 365
+  size: 91, 143
+  orig: 91, 143
+  offset: 0, 0
+  index: -1
+r_pant
+  rotate: false
+  xy: 793, 786
+  size: 147, 162
+  orig: 147, 162
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 293, 4
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+scarf1
+  rotate: true
+  xy: 136, 637
+  size: 311, 292
+  orig: 311, 292
+  offset: 0, 0
+  index: -1
+scarf2
+  rotate: true
+  xy: 443, 700
+  size: 248, 127
+  orig: 248, 127
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 64, 619
+  size: 57, 329
+  orig: 57, 329
+  offset: 0, 0
+  index: -1
+weapon_knife
+  rotate: false
+  xy: 0, 499
+  size: 49, 449
+  orig: 49, 449
+  offset: 0, 0
+  index: -1

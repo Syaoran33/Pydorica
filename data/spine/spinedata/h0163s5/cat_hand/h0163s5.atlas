@@ -1,0 +1,20 @@
+
+h0163s5.png
+size: 115,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doll_l_arm
+  rotate: false
+  xy: 68, 32
+  size: 47, 83
+  orig: 47, 83
+  offset: 0, 0
+  index: -1
+doll_r_arm
+  rotate: false
+  xy: 0, 36
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1

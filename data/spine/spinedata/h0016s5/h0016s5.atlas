@@ -1,0 +1,426 @@
+
+h0016s5.png
+size: 947,947
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_dwn
+  rotate: false
+  xy: 513, 26
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+L_arm_up
+  rotate: true
+  xy: 176, 465
+  size: 67, 122
+  orig: 67, 122
+  offset: 0, 0
+  index: -1
+apron
+  rotate: true
+  xy: 176, 547
+  size: 204, 116
+  orig: 204, 116
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 570, 528
+  size: 127, 145
+  orig: 127, 145
+  offset: 0, 0
+  index: -1
+body_fall
+  rotate: false
+  xy: 0, 766
+  size: 254, 181
+  orig: 254, 181
+  offset: 0, 0
+  index: -1
+bowknot
+  rotate: true
+  xy: 828, 0
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+butter
+  rotate: true
+  xy: 447, 589
+  size: 180, 108
+  orig: 180, 108
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: false
+  xy: 750, 28
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: false
+  xy: 815, 200
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: true
+  xy: 892, 200
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+eye_close1
+  rotate: false
+  xy: 333, 9
+  size: 57, 25
+  orig: 57, 25
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: true
+  xy: 901, 594
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+eye_surprise
+  rotate: false
+  xy: 828, 74
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+food_fruit
+  rotate: false
+  xy: 595, 6
+  size: 69, 95
+  orig: 69, 95
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: false
+  xy: 685, 0
+  size: 50, 104
+  orig: 50, 104
+  offset: 0, 0
+  index: -1
+fx3
+  rotate: true
+  xy: 806, 135
+  size: 50, 106
+  orig: 50, 106
+  offset: 0, 0
+  index: -1
+gem
+  rotate: true
+  xy: 924, 741
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 509, 212
+  size: 72, 134
+  orig: 72, 134
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 0, 0
+  size: 79, 127
+  orig: 79, 127
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 570, 670
+  size: 142, 152
+  orig: 142, 152
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 446, 462
+  size: 105, 112
+  orig: 105, 112
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: true
+  xy: 685, 119
+  size: 67, 106
+  orig: 67, 106
+  offset: 0, 0
+  index: -1
+hair_accessories
+  rotate: false
+  xy: 566, 439
+  size: 146, 74
+  orig: 146, 74
+  offset: 0, 0
+  index: -1
+hair_accessories_bowknot
+  rotate: true
+  xy: 424, 26
+  size: 101, 74
+  orig: 101, 74
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 286
+  size: 157, 177
+  orig: 157, 177
+  offset: 0, 0
+  index: -1
+head_blush
+  rotate: false
+  xy: 0, 94
+  size: 157, 177
+  orig: 157, 177
+  offset: 0, 0
+  index: -1
+l_arm_ruffle
+  rotate: false
+  xy: 882, 349
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+l_horn_fall
+  rotate: true
+  xy: 730, 525
+  size: 138, 156
+  orig: 138, 156
+  offset: 0, 0
+  index: -1
+l_leg_dwn
+  rotate: true
+  xy: 727, 434
+  size: 76, 176
+  orig: 76, 176
+  offset: 0, 0
+  index: -1
+l_leg_up
+  rotate: false
+  xy: 313, 144
+  size: 100, 151
+  orig: 100, 151
+  offset: 0, 0
+  index: -1
+l_love
+  rotate: false
+  xy: 901, 550
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+l_ribbon_1
+  rotate: true
+  xy: 269, 784
+  size: 49, 191
+  orig: 49, 191
+  offset: 0, 0
+  index: -1
+l_ribbon_2
+  rotate: false
+  xy: 415, 323
+  size: 72, 120
+  orig: 72, 120
+  offset: 0, 0
+  index: -1
+l_ribbon_green
+  rotate: false
+  xy: 428, 142
+  size: 66, 166
+  orig: 66, 166
+  offset: 0, 0
+  index: -1
+mouth_close
+  rotate: false
+  xy: 502, 439
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: false
+  xy: 924, 708
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 609, 116
+  size: 61, 100
+  orig: 61, 100
+  offset: 0, 0
+  index: -1
+neck_ribbon
+  rotate: false
+  xy: 475, 789
+  size: 73, 44
+  orig: 73, 44
+  offset: 0, 0
+  index: -1
+r_arm_dwn
+  rotate: false
+  xy: 596, 231
+  size: 74, 115
+  orig: 74, 115
+  offset: 0, 0
+  index: -1
+r_arm_ruffle
+  rotate: true
+  xy: 509, 146
+  size: 51, 85
+  orig: 51, 85
+  offset: 0, 0
+  index: -1
+r_arm_up
+  rotate: true
+  xy: 685, 201
+  size: 68, 115
+  orig: 68, 115
+  offset: 0, 0
+  index: -1
+r_horn_fall
+  rotate: false
+  xy: 172, 300
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+r_leg_dwn
+  rotate: true
+  xy: 727, 678
+  size: 84, 182
+  orig: 84, 182
+  offset: 0, 0
+  index: -1
+r_leg_up
+  rotate: false
+  xy: 309, 310
+  size: 91, 133
+  orig: 91, 133
+  offset: 0, 0
+  index: -1
+r_love
+  rotate: false
+  xy: 846, 284
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+r_ribbon_1
+  rotate: false
+  xy: 793, 777
+  size: 153, 170
+  orig: 153, 170
+  offset: 0, 0
+  index: -1
+r_ribbon_2
+  rotate: true
+  xy: 172, 153
+  size: 132, 126
+  orig: 132, 126
+  offset: 0, 0
+  index: -1
+r_ribbon_green
+  rotate: true
+  xy: 307, 591
+  size: 178, 125
+  orig: 178, 125
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: true
+  xy: 0, 478
+  size: 273, 161
+  orig: 273, 161
+  offset: 0, 0
+  index: -1
+skirt1
+  rotate: false
+  xy: 269, 848
+  size: 285, 99
+  orig: 285, 99
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 569, 837
+  size: 209, 110
+  orig: 209, 110
+  offset: 0, 0
+  index: -1
+tail_bell
+  rotate: false
+  xy: 727, 777
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+weapon_cake
+  rotate: false
+  xy: 313, 49
+  size: 96, 80
+  orig: 96, 80
+  offset: 0, 0
+  index: -1
+weapon_knife
+  rotate: true
+  xy: 142, 8
+  size: 26, 176
+  orig: 26, 176
+  offset: 0, 0
+  index: -1
+weapon_knife1
+  rotate: true
+  xy: 691, 393
+  size: 26, 176
+  orig: 26, 176
+  offset: 0, 0
+  index: -1
+weapon_paper
+  rotate: false
+  xy: 502, 361
+  size: 174, 63
+  orig: 174, 63
+  offset: 0, 0
+  index: -1
+weapon_plate
+  rotate: false
+  xy: 685, 284
+  size: 146, 39
+  orig: 146, 39
+  offset: 0, 0
+  index: -1
+weapon_plate_bottom
+  rotate: false
+  xy: 313, 458
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+weapon_spoon
+  rotate: true
+  xy: 691, 338
+  size: 40, 162
+  orig: 40, 162
+  offset: 0, 0
+  index: -1
+weapon_teapot
+  rotate: false
+  xy: 172, 49
+  size: 126, 89
+  orig: 126, 89
+  offset: 0, 0
+  index: -1

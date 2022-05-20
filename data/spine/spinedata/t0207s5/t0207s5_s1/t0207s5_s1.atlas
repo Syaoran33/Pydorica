@@ -1,0 +1,139 @@
+
+t0207s5_s1.png
+size: 903,903
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+claw_l
+  rotate: false
+  xy: 511, 118
+  size: 172, 127
+  orig: 172, 127
+  offset: 0, 0
+  index: -1
+claw_l2
+  rotate: false
+  xy: 807, 499
+  size: 83, 54
+  orig: 83, 54
+  offset: 0, 0
+  index: -1
+claw_r
+  rotate: false
+  xy: 0, 45
+  size: 297, 232
+  orig: 297, 232
+  offset: 0, 0
+  index: -1
+claw_r2
+  rotate: true
+  xy: 698, 84
+  size: 161, 99
+  orig: 161, 99
+  offset: 0, 0
+  index: -1
+crab
+  rotate: false
+  xy: 0, 605
+  size: 566, 298
+  orig: 566, 298
+  offset: 0, 0
+  index: -1
+crab2
+  rotate: false
+  xy: 0, 292
+  size: 566, 298
+  orig: 566, 298
+  offset: 0, 0
+  index: -1
+crab_eye_l
+  rotate: true
+  xy: 823, 253
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+crab_eye_lclose
+  rotate: false
+  xy: 812, 110
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+crab_eye_r
+  rotate: false
+  xy: 638, 40
+  size: 39, 63
+  orig: 39, 63
+  offset: 0, 0
+  index: -1
+crab_eye_rclose
+  rotate: true
+  xy: 692, 30
+  size: 39, 63
+  orig: 39, 63
+  offset: 0, 0
+  index: -1
+crab_foot_l1
+  rotate: false
+  xy: 312, 50
+  size: 184, 227
+  orig: 184, 227
+  offset: 0, 0
+  index: -1
+crab_foot_l2
+  rotate: false
+  xy: 807, 743
+  size: 96, 160
+  orig: 96, 160
+  offset: 0, 0
+  index: -1
+crab_foot_l3
+  rotate: true
+  xy: 511, 33
+  size: 70, 112
+  orig: 70, 112
+  offset: 0, 0
+  index: -1
+crab_foot_r1
+  rotate: true
+  xy: 581, 260
+  size: 184, 227
+  orig: 184, 227
+  offset: 0, 0
+  index: -1
+crab_foot_r2
+  rotate: false
+  xy: 807, 568
+  size: 95, 160
+  orig: 95, 160
+  offset: 0, 0
+  index: -1
+crab_foot_r3
+  rotate: false
+  xy: 823, 373
+  size: 69, 111
+  orig: 69, 111
+  offset: 0, 0
+  index: -1
+crab_mouth_l
+  rotate: false
+  xy: 823, 304
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+crab_mouth_r
+  rotate: false
+  xy: 812, 184
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+crab_seat
+  rotate: true
+  xy: 581, 459
+  size: 444, 211
+  orig: 444, 211
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+h0133s5_wings.png
+size: 1009,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_wings_1_updwn
+  rotate: false
+  xy: 674, 250
+  size: 178, 198
+  orig: 178, 198
+  offset: 0, 0
+  index: -1
+l_wings_2_updwn
+  rotate: false
+  xy: 0, 7
+  size: 180, 222
+  orig: 180, 222
+  offset: 0, 0
+  index: -1
+l_wings_3_updwn
+  rotate: false
+  xy: 867, 174
+  size: 102, 274
+  orig: 102, 274
+  offset: 0, 0
+  index: -1
+l_wings_4_updwn
+  rotate: false
+  xy: 496, 215
+  size: 163, 244
+  orig: 163, 244
+  offset: 0, 0
+  index: -1
+l_wings_5_updwn
+  rotate: false
+  xy: 365, 0
+  size: 189, 200
+  orig: 189, 200
+  offset: 0, 0
+  index: -1
+l_wings_6_updwn
+  rotate: false
+  xy: 195, 7
+  size: 155, 222
+  orig: 155, 222
+  offset: 0, 0
+  index: -1
+l_wings_7_updwn
+  rotate: false
+  xy: 315, 246
+  size: 166, 213
+  orig: 166, 213
+  offset: 0, 0
+  index: -1
+l_wings_updwn
+  rotate: false
+  xy: 569, 1
+  size: 155, 199
+  orig: 155, 199
+  offset: 0, 0
+  index: -1
+r_wings_1_updwn
+  rotate: false
+  xy: 0, 244
+  size: 300, 261
+  orig: 300, 261
+  offset: 0, 0
+  index: -1
+r_wings_2_updwn
+  rotate: true
+  xy: 0, 699
+  size: 110, 330
+  orig: 110, 330
+  offset: 0, 0
+  index: -1
+r_wings_3_updwn
+  rotate: true
+  xy: 0, 520
+  size: 164, 314
+  orig: 164, 314
+  offset: 0, 0
+  index: -1
+r_wings_4_updwn
+  rotate: true
+  xy: 345, 474
+  size: 270, 324
+  orig: 270, 324
+  offset: 0, 0
+  index: -1
+r_wings_5_updwn
+  rotate: false
+  xy: 684, 463
+  size: 316, 255
+  orig: 316, 255
+  offset: 0, 0
+  index: -1
+r_wings_6_updwn
+  rotate: false
+  xy: 0, 824
+  size: 382, 185
+  orig: 382, 185
+  offset: 0, 0
+  index: -1
+r_wings_7_updwn
+  rotate: true
+  xy: 775, 733
+  size: 276, 234
+  orig: 276, 234
+  offset: 0, 0
+  index: -1
+r_wings_updwn
+  rotate: false
+  xy: 397, 759
+  size: 363, 250
+  orig: 363, 250
+  offset: 0, 0
+  index: -1

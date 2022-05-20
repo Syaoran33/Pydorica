@@ -1,0 +1,76 @@
+
+h0213s5_table.png
+size: 983,983
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dish1
+  rotate: true
+  xy: 0, 0
+  size: 175, 173
+  orig: 175, 173
+  offset: 0, 0
+  index: -1
+dish1a
+  rotate: true
+  xy: 401, 241
+  size: 198, 78
+  orig: 198, 78
+  offset: 0, 0
+  index: -1
+dish1b
+  rotate: false
+  xy: 0, 438
+  size: 231, 203
+  orig: 231, 203
+  offset: 0, 0
+  index: -1
+dish2
+  rotate: false
+  xy: 486, 512
+  size: 215, 129
+  orig: 215, 129
+  offset: 0, 0
+  index: -1
+dish2a
+  rotate: true
+  xy: 322, 212
+  size: 227, 64
+  orig: 227, 64
+  offset: 0, 0
+  index: -1
+dish2b
+  rotate: false
+  xy: 246, 454
+  size: 225, 187
+  orig: 225, 187
+  offset: 0, 0
+  index: -1
+dish3
+  rotate: false
+  xy: 716, 514
+  size: 215, 127
+  orig: 215, 127
+  offset: 0, 0
+  index: -1
+dish3a
+  rotate: true
+  xy: 196, 195
+  size: 228, 111
+  orig: 228, 111
+  offset: 0, 0
+  index: -1
+dish3b
+  rotate: true
+  xy: 0, 190
+  size: 233, 181
+  orig: 233, 181
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 0, 656
+  size: 977, 327
+  orig: 977, 327
+  offset: 0, 0
+  index: -1

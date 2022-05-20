@@ -1,0 +1,678 @@
+
+h0012s5_owl.png
+size: 836,836
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_water_00
+  rotate: false
+  xy: 0, 785
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_02
+  rotate: false
+  xy: 0, 719
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_05
+  rotate: false
+  xy: 130, 785
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_07
+  rotate: false
+  xy: 0, 653
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_10
+  rotate: false
+  xy: 130, 719
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_12
+  rotate: false
+  xy: 260, 785
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_15
+  rotate: false
+  xy: 0, 587
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_17
+  rotate: false
+  xy: 130, 653
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_20
+  rotate: false
+  xy: 260, 719
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_22
+  rotate: false
+  xy: 390, 785
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_25
+  rotate: false
+  xy: 0, 521
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_27
+  rotate: false
+  xy: 130, 587
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_31
+  rotate: false
+  xy: 260, 653
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_33
+  rotate: false
+  xy: 390, 719
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_36
+  rotate: false
+  xy: 520, 785
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_38
+  rotate: false
+  xy: 0, 455
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_41
+  rotate: false
+  xy: 130, 521
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_43
+  rotate: false
+  xy: 260, 587
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+b_water_45
+  rotate: false
+  xy: 390, 653
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+owl_body
+  rotate: false
+  xy: 780, 125
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+owl_feet
+  rotate: true
+  xy: 356, 33
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+owl_head
+  rotate: false
+  xy: 0, 10
+  size: 57, 34
+  orig: 57, 34
+  offset: 0, 0
+  index: -1
+owl_l_horn
+  rotate: false
+  xy: 212, 16
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+owl_l_wing1
+  rotate: false
+  xy: 392, 29
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+owl_l_wing2
+  rotate: false
+  xy: 456, 34
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+owl_l_wing3
+  rotate: false
+  xy: 487, 34
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+owl_l_wing4
+  rotate: false
+  xy: 169, 15
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+owl_l_wing5
+  rotate: false
+  xy: 286, 0
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+owl_l_wing6
+  rotate: false
+  xy: 424, 33
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+owl_r_horn
+  rotate: false
+  xy: 123, 15
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+owl_r_wing1
+  rotate: false
+  xy: 286, 27
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+owl_r_wing2
+  rotate: false
+  xy: 320, 0
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+owl_r_wing3
+  rotate: false
+  xy: 750, 79
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+owl_r_wing4
+  rotate: false
+  xy: 72, 12
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+owl_r_wing5
+  rotate: false
+  xy: 707, 77
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+owl_r_wing6
+  rotate: false
+  xy: 321, 29
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+owl_skill
+  rotate: true
+  xy: 707, 104
+  size: 6, 58
+  orig: 6, 58
+  offset: 0, 0
+  index: -1
+owl_soul
+  rotate: false
+  xy: 650, 76
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+owl_tail
+  rotate: false
+  xy: 247, 23
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+p_water_00
+  rotate: false
+  xy: 520, 719
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_02
+  rotate: false
+  xy: 650, 785
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_05
+  rotate: false
+  xy: 0, 389
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_08
+  rotate: false
+  xy: 130, 455
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_10
+  rotate: false
+  xy: 260, 521
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_14
+  rotate: false
+  xy: 390, 587
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_15
+  rotate: false
+  xy: 520, 653
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_19
+  rotate: false
+  xy: 650, 719
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_20
+  rotate: true
+  xy: 780, 721
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_24
+  rotate: false
+  xy: 0, 323
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_26
+  rotate: false
+  xy: 130, 389
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_27
+  rotate: false
+  xy: 260, 455
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_29
+  rotate: false
+  xy: 390, 521
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_32
+  rotate: false
+  xy: 520, 587
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_35
+  rotate: false
+  xy: 650, 653
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_38
+  rotate: false
+  xy: 0, 257
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_40
+  rotate: false
+  xy: 130, 323
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_42
+  rotate: false
+  xy: 260, 389
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+p_water_45
+  rotate: false
+  xy: 390, 455
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_01
+  rotate: false
+  xy: 520, 521
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_04
+  rotate: false
+  xy: 650, 587
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_06
+  rotate: true
+  xy: 780, 591
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_09
+  rotate: false
+  xy: 0, 191
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_12
+  rotate: false
+  xy: 130, 257
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_13
+  rotate: false
+  xy: 260, 323
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_16
+  rotate: false
+  xy: 390, 389
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_19
+  rotate: false
+  xy: 520, 455
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_21
+  rotate: false
+  xy: 650, 521
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_26
+  rotate: false
+  xy: 0, 125
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_27
+  rotate: false
+  xy: 130, 191
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_30
+  rotate: false
+  xy: 260, 257
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_32
+  rotate: false
+  xy: 390, 323
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_34
+  rotate: false
+  xy: 520, 389
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_38
+  rotate: false
+  xy: 650, 455
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_39
+  rotate: true
+  xy: 780, 461
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_42
+  rotate: false
+  xy: 0, 59
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_44
+  rotate: false
+  xy: 130, 125
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+r_water_47
+  rotate: false
+  xy: 260, 191
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_00
+  rotate: false
+  xy: 390, 257
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_02
+  rotate: false
+  xy: 520, 323
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_04
+  rotate: false
+  xy: 650, 389
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_06
+  rotate: false
+  xy: 130, 59
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_09
+  rotate: false
+  xy: 260, 125
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_12
+  rotate: false
+  xy: 390, 191
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_14
+  rotate: false
+  xy: 520, 257
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_17
+  rotate: false
+  xy: 650, 323
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_19
+  rotate: true
+  xy: 780, 331
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_22
+  rotate: false
+  xy: 260, 59
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_23
+  rotate: false
+  xy: 390, 125
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_27
+  rotate: false
+  xy: 520, 191
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_29
+  rotate: false
+  xy: 650, 257
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_31
+  rotate: false
+  xy: 390, 59
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_34
+  rotate: false
+  xy: 520, 125
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_37
+  rotate: false
+  xy: 650, 191
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_39
+  rotate: true
+  xy: 780, 201
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_41
+  rotate: false
+  xy: 520, 59
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1
+y_water_44
+  rotate: false
+  xy: 650, 125
+  size: 115, 51
+  orig: 115, 51
+  offset: 0, 0
+  index: -1

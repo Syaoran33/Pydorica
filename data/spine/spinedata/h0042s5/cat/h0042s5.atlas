@@ -1,0 +1,146 @@
+
+h0042s5.png
+size: 765,765
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cat_body
+  rotate: false
+  xy: 0, 409
+  size: 472, 356
+  orig: 472, 356
+  offset: 0, 0
+  index: -1
+cat_eye
+  rotate: true
+  xy: 455, 14
+  size: 112, 78
+  orig: 112, 78
+  offset: 0, 0
+  index: -1
+cat_eye_close
+  rotate: true
+  xy: 623, 68
+  size: 106, 53
+  orig: 106, 53
+  offset: 0, 0
+  index: -1
+cat_eye_close_shd
+  rotate: true
+  xy: 548, 29
+  size: 107, 60
+  orig: 107, 60
+  offset: 0, 0
+  index: -1
+cat_eye_close_shd1
+  rotate: false
+  xy: 583, 189
+  size: 107, 60
+  orig: 107, 60
+  offset: 0, 0
+  index: -1
+cat_eye_open_shd
+  rotate: false
+  xy: 343, 141
+  size: 112, 92
+  orig: 112, 92
+  offset: 0, 0
+  index: -1
+cat_eye_open_shd1
+  rotate: true
+  xy: 348, 18
+  size: 108, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+cat_eyeball
+  rotate: true
+  xy: 715, 0
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+cat_head
+  rotate: true
+  xy: 487, 458
+  size: 307, 257
+  orig: 307, 257
+  offset: 0, 0
+  index: -1
+cat_l_arm_dwn
+  rotate: true
+  xy: 715, 47
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+cat_l_arm_up
+  rotate: false
+  xy: 205, 30
+  size: 128, 87
+  orig: 128, 87
+  offset: 0, 0
+  index: -1
+cat_l_ear
+  rotate: true
+  xy: 705, 137
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+cat_mouth
+  rotate: true
+  xy: 343, 248
+  size: 146, 124
+  orig: 146, 124
+  offset: 0, 0
+  index: -1
+cat_mouth_combine
+  rotate: true
+  xy: 194, 247
+  size: 147, 134
+  orig: 147, 134
+  offset: 0, 0
+  index: -1
+cat_r_arm_dwn
+  rotate: true
+  xy: 623, 7
+  size: 46, 77
+  orig: 46, 77
+  offset: 0, 0
+  index: -1
+cat_r_arm_up
+  rotate: false
+  xy: 194, 132
+  size: 127, 100
+  orig: 127, 100
+  offset: 0, 0
+  index: -1
+cat_r_ear
+  rotate: true
+  xy: 470, 151
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+cat_tail_dwn
+  rotate: false
+  xy: 0, 0
+  size: 190, 115
+  orig: 190, 115
+  offset: 0, 0
+  index: -1
+cat_tail_up
+  rotate: true
+  xy: 487, 264
+  size: 179, 264
+  orig: 179, 264
+  offset: 0, 0
+  index: -1
+cat_tail_up1
+  rotate: false
+  xy: 0, 130
+  size: 179, 264
+  orig: 179, 264
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+h0210s5_S3.png
+size: 1982,1982
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_in
+  rotate: false
+  xy: 1612, 1476
+  size: 272, 506
+  orig: 272, 506
+  offset: 0, 0
+  index: -1
+arm_out
+  rotate: false
+  xy: 0, 5
+  size: 712, 427
+  orig: 712, 427
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 447
+  size: 1597, 1535
+  orig: 1597, 1535
+  offset: 0, 0
+  index: -1
+ear_in
+  rotate: false
+  xy: 1004, 204
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1612, 1199
+  size: 181, 262
+  orig: 181, 262
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1004, 269
+  size: 197, 163
+  orig: 197, 163
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1899, 1798
+  size: 83, 184
+  orig: 83, 184
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1612, 1023
+  size: 125, 161
+  orig: 125, 161
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 727, 28
+  size: 144, 248
+  orig: 144, 248
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1808, 1353
+  size: 63, 108
+  orig: 63, 108
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 727, 187
+  size: 262, 245
+  orig: 262, 245
+  offset: 0, 0
+  index: -1

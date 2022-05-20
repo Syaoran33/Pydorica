@@ -1,0 +1,286 @@
+
+h0047s5.png
+size: 1009,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_up
+  rotate: false
+  xy: 826, 249
+  size: 54, 96
+  orig: 54, 96
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 690, 543
+  size: 117, 194
+  orig: 117, 194
+  offset: 0, 0
+  index: -1
+dress_up
+  rotate: true
+  xy: 839, 113
+  size: 121, 50
+  orig: 121, 50
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 0, 1
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: true
+  xy: 807, 22
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 405, 24
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 524, 43
+  size: 69, 141
+  orig: 69, 141
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 695, 455
+  size: 73, 197
+  orig: 73, 197
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 778, 106
+  size: 46, 127
+  orig: 46, 127
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 254, 47
+  size: 136, 302
+  orig: 136, 302
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: true
+  xy: 692, 675
+  size: 102, 292
+  orig: 102, 292
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: false
+  xy: 400, 382
+  size: 110, 270
+  orig: 110, 270
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 421, 685
+  size: 256, 324
+  orig: 256, 324
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 525, 498
+  size: 150, 172
+  orig: 150, 172
+  offset: 0, 0
+  index: -1
+l_arm_dwn
+  rotate: true
+  xy: 904, 115
+  size: 66, 99
+  orig: 66, 99
+  offset: 0, 0
+  index: -1
+l_hair_accessories
+  rotate: false
+  xy: 595, 229
+  size: 72, 149
+  orig: 72, 149
+  offset: 0, 0
+  index: -1
+l_leg_dwn
+  rotate: false
+  xy: 507, 199
+  size: 73, 168
+  orig: 73, 168
+  offset: 0, 0
+  index: -1
+l_leg_up
+  rotate: true
+  xy: 884, 367
+  size: 73, 125
+  orig: 73, 125
+  offset: 0, 0
+  index: -1
+l_skirt
+  rotate: false
+  xy: 904, 196
+  size: 96, 71
+  orig: 96, 71
+  offset: 0, 0
+  index: -1
+l_wings
+  rotate: false
+  xy: 0, 667
+  size: 406, 342
+  orig: 406, 342
+  offset: 0, 0
+  index: -1
+mouth_close
+  rotate: true
+  xy: 978, 533
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+mouth_close1
+  rotate: true
+  xy: 726, 0
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: false
+  xy: 88, 33
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 907, 458
+  size: 56, 91
+  orig: 56, 91
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: true
+  xy: 970, 931
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+r_arm_dwn
+  rotate: true
+  xy: 895, 282
+  size: 70, 105
+  orig: 70, 105
+  offset: 0, 0
+  index: -1
+r_arm_up
+  rotate: true
+  xy: 608, 12
+  size: 64, 103
+  orig: 64, 103
+  offset: 0, 0
+  index: -1
+r_hair_accessories
+  rotate: true
+  xy: 525, 393
+  size: 90, 155
+  orig: 90, 155
+  offset: 0, 0
+  index: -1
+r_hair_accessories1
+  rotate: false
+  xy: 970, 867
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+r_hair_accessories_branches
+  rotate: false
+  xy: 682, 248
+  size: 129, 97
+  orig: 129, 97
+  offset: 0, 0
+  index: -1
+r_hair_accessories_leaf
+  rotate: false
+  xy: 726, 33
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+r_leg_dwn
+  rotate: true
+  xy: 695, 360
+  size: 80, 174
+  orig: 80, 174
+  offset: 0, 0
+  index: -1
+r_leg_up
+  rotate: false
+  xy: 608, 91
+  size: 80, 123
+  orig: 80, 123
+  offset: 0, 0
+  index: -1
+r_skirt
+  rotate: true
+  xy: 405, 168
+  size: 199, 87
+  orig: 199, 87
+  offset: 0, 0
+  index: -1
+r_wings
+  rotate: false
+  xy: 0, 57
+  size: 239, 292
+  orig: 239, 292
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 692, 792
+  size: 263, 217
+  orig: 263, 217
+  offset: 0, 0
+  index: -1
+skirt_back
+  rotate: false
+  xy: 0, 364
+  size: 385, 288
+  orig: 385, 288
+  offset: 0, 0
+  index: -1
+veil
+  rotate: true
+  xy: 899, 564
+  size: 96, 85
+  orig: 96, 85
+  offset: 0, 0
+  index: -1
+veil1
+  rotate: true
+  xy: 703, 111
+  size: 122, 60
+  orig: 122, 60
+  offset: 0, 0
+  index: -1
+veil3
+  rotate: false
+  xy: 867, 28
+  size: 47, 70
+  orig: 47, 70
+  offset: 0, 0
+  index: -1

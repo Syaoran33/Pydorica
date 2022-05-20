@@ -1,0 +1,83 @@
+
+h0215s5_doll1.png
+size: 998,998
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doll1_body
+  rotate: true
+  xy: 715, 183
+  size: 197, 227
+  orig: 197, 227
+  offset: 0, 0
+  index: -1
+doll1_head
+  rotate: false
+  xy: 0, 77
+  size: 431, 416
+  orig: 431, 416
+  offset: 0, 0
+  index: -1
+doll1_l_arm_dwn
+  rotate: true
+  xy: 712, 77
+  size: 91, 144
+  orig: 91, 144
+  offset: 0, 0
+  index: -1
+doll1_l_arm_up
+  rotate: true
+  xy: 752, 395
+  size: 168, 237
+  orig: 168, 237
+  offset: 0, 0
+  index: -1
+doll1_r_arm_dwn
+  rotate: true
+  xy: 578, 104
+  size: 133, 119
+  orig: 133, 119
+  offset: 0, 0
+  index: -1
+doll1_r_arm_up
+  rotate: true
+  xy: 448, 252
+  size: 248, 252
+  orig: 248, 252
+  offset: 0, 0
+  index: -1
+doll1_ribbon
+  rotate: false
+  xy: 446, 101
+  size: 117, 136
+  orig: 117, 136
+  offset: 0, 0
+  index: -1
+doll1_skirt1
+  rotate: false
+  xy: 448, 515
+  size: 289, 483
+  orig: 289, 483
+  offset: 0, 0
+  index: -1
+doll1_skirt2
+  rotate: false
+  xy: 752, 578
+  size: 233, 420
+  orig: 233, 420
+  offset: 0, 0
+  index: -1
+doll1_skirt3
+  rotate: false
+  xy: 0, 508
+  size: 433, 490
+  orig: 433, 490
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 0, 0
+  size: 62, 764
+  orig: 62, 764
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+h0199s5_chair.png
+size: 814,814
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chair
+  rotate: false
+  xy: 0, 360
+  size: 636, 199
+  orig: 636, 199
+  offset: 0, 0
+  index: -1
+chair1
+  rotate: true
+  xy: 686, 615
+  size: 199, 89
+  orig: 199, 89
+  offset: 0, 0
+  index: -1
+chair2
+  rotate: false
+  xy: 0, 261
+  size: 569, 84
+  orig: 569, 84
+  offset: 0, 0
+  index: -1
+chair_bacck
+  rotate: false
+  xy: 0, 574
+  size: 671, 240
+  orig: 671, 240
+  offset: 0, 0
+  index: -1
+deco1
+  rotate: false
+  xy: 584, 297
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+deco2
+  rotate: true
+  xy: 466, 34
+  size: 45, 96
+  orig: 45, 96
+  offset: 0, 0
+  index: -1
+l_chair_leg
+  rotate: true
+  xy: 657, 0
+  size: 127, 64
+  orig: 127, 64
+  offset: 0, 0
+  index: -1
+pillow1
+  rotate: false
+  xy: 0, 55
+  size: 307, 191
+  orig: 307, 191
+  offset: 0, 0
+  index: -1
+pillow2
+  rotate: false
+  xy: 322, 94
+  size: 320, 152
+  orig: 320, 152
+  offset: 0, 0
+  index: -1
+pillow3
+  rotate: true
+  xy: 651, 332
+  size: 227, 153
+  orig: 227, 153
+  offset: 0, 0
+  index: -1
+pillow4
+  rotate: true
+  xy: 657, 142
+  size: 175, 107
+  orig: 175, 107
+  offset: 0, 0
+  index: -1
+r_chair_leg
+  rotate: false
+  xy: 322, 12
+  size: 129, 67
+  orig: 129, 67
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+t0207s5_s3.png
+size: 638,638
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag1
+  rotate: false
+  xy: 0, 53
+  size: 225, 306
+  orig: 225, 306
+  offset: 0, 0
+  index: -1
+flag2
+  rotate: false
+  xy: 318, 162
+  size: 67, 197
+  orig: 67, 197
+  offset: 0, 0
+  index: -1
+flag3
+  rotate: false
+  xy: 451, 393
+  size: 133, 245
+  orig: 133, 245
+  offset: 0, 0
+  index: -1
+flag_full
+  rotate: false
+  xy: 0, 374
+  size: 436, 264
+  orig: 436, 264
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 240, 52
+  size: 63, 307
+  orig: 63, 307
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 318, 96
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 451, 0
+  size: 87, 378
+  orig: 87, 378
+  offset: 0, 0
+  index: -1
+weapon3
+  rotate: false
+  xy: 599, 235
+  size: 30, 403
+  orig: 30, 403
+  offset: 0, 0
+  index: -1

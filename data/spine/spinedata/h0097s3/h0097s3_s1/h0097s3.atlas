@@ -1,0 +1,118 @@
+
+h0097s3.png
+size: 298,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doll_belt
+  rotate: true
+  xy: 276, 254
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+doll_body
+  rotate: false
+  xy: 246, 185
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+doll_hair
+  rotate: false
+  xy: 95, 92
+  size: 42, 110
+  orig: 42, 110
+  offset: 0, 0
+  index: -1
+doll_hair1
+  rotate: true
+  xy: 0, 41
+  size: 32, 109
+  orig: 32, 109
+  offset: 0, 0
+  index: -1
+doll_hair2
+  rotate: true
+  xy: 132, 248
+  size: 50, 129
+  orig: 50, 129
+  offset: 0, 0
+  index: -1
+doll_hair_back
+  rotate: false
+  xy: 0, 88
+  size: 80, 114
+  orig: 80, 114
+  offset: 0, 0
+  index: -1
+doll_head
+  rotate: false
+  xy: 152, 143
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+doll_l_arm_dwn
+  rotate: false
+  xy: 0, 0
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+doll_l_arm_up
+  rotate: true
+  xy: 124, 39
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+doll_l_leg_dwn
+  rotate: true
+  xy: 36, 2
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+doll_l_leg_up
+  rotate: true
+  xy: 152, 94
+  size: 34, 67
+  orig: 34, 67
+  offset: 0, 0
+  index: -1
+doll_r_arm_dwn
+  rotate: false
+  xy: 213, 50
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+doll_r_arm_up
+  rotate: true
+  xy: 234, 92
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+doll_r_leg_dwn
+  rotate: true
+  xy: 246, 143
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+doll_r_leg_up
+  rotate: false
+  xy: 167, 9
+  size: 31, 70
+  orig: 31, 70
+  offset: 0, 0
+  index: -1
+doll_skirt
+  rotate: false
+  xy: 0, 217
+  size: 117, 81
+  orig: 117, 81
+  offset: 0, 0
+  index: -1

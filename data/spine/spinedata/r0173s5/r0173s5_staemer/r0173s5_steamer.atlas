@@ -1,0 +1,111 @@
+
+r0173s5_steamer.png
+size: 431,431
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+food
+  rotate: false
+  xy: 362, 91
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+food2
+  rotate: false
+  xy: 181, 26
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+food3
+  rotate: false
+  xy: 261, 33
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+food4
+  rotate: true
+  xy: 0, 0
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+food5
+  rotate: false
+  xy: 74, 2
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+food6
+  rotate: true
+  xy: 362, 158
+  size: 104, 49
+  orig: 104, 49
+  offset: 0, 0
+  index: -1
+steamer_black
+  rotate: false
+  xy: 167, 261
+  size: 150, 75
+  orig: 150, 75
+  offset: 0, 0
+  index: -1
+steamer_black2
+  rotate: false
+  xy: 0, 348
+  size: 152, 83
+  orig: 152, 83
+  offset: 0, 0
+  index: -1
+steamer_black_cover
+  rotate: true
+  xy: 334, 277
+  size: 154, 76
+  orig: 154, 76
+  offset: 0, 0
+  index: -1
+steamer_brown
+  rotate: true
+  xy: 0, 80
+  size: 155, 76
+  orig: 155, 76
+  offset: 0, 0
+  index: -1
+steamer_brown2
+  rotate: false
+  xy: 167, 351
+  size: 152, 80
+  orig: 152, 80
+  offset: 0, 0
+  index: -1
+steamer_brown_cover
+  rotate: true
+  xy: 91, 79
+  size: 156, 75
+  orig: 156, 75
+  offset: 0, 0
+  index: -1
+steamer_white
+  rotate: true
+  xy: 181, 97
+  size: 149, 76
+  orig: 149, 76
+  offset: 0, 0
+  index: -1
+steamer_white2
+  rotate: false
+  xy: 0, 250
+  size: 150, 83
+  orig: 150, 83
+  offset: 0, 0
+  index: -1
+steamer_white_cover
+  rotate: true
+  xy: 272, 97
+  size: 149, 75
+  orig: 149, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+h0175s5_neko_boss.png
+size: 984,984
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+neko_body
+  rotate: true
+  xy: 0, 0
+  size: 246, 279
+  orig: 246, 279
+  offset: 0, 0
+  index: -1
+neko_head
+  rotate: false
+  xy: 0, 261
+  size: 780, 723
+  orig: 780, 723
+  offset: 0, 0
+  index: -1
+neko_l_arm
+  rotate: false
+  xy: 294, 145
+  size: 221, 101
+  orig: 221, 101
+  offset: 0, 0
+  index: -1
+neko_r_arm
+  rotate: true
+  xy: 795, 709
+  size: 275, 124
+  orig: 275, 124
+  offset: 0, 0
+  index: -1

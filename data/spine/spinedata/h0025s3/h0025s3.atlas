@@ -1,0 +1,300 @@
+
+h0025s3.png
+size: 963,679
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: true
+  xy: 231, 0
+  size: 107, 47
+  orig: 107, 47
+  offset: 0, 0
+  index: -1
+belt_Valance
+  rotate: false
+  xy: 863, 545
+  size: 82, 134
+  orig: 82, 134
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 550, 2
+  size: 105, 88
+  orig: 105, 88
+  offset: 0, 0
+  index: -1
+drapery
+  rotate: false
+  xy: 204, 122
+  size: 107, 251
+  orig: 107, 251
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 904, 45
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 904, 4
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+hair01
+  rotate: true
+  xy: 833, 114
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+hair02
+  rotate: true
+  xy: 0, 0
+  size: 80, 216
+  orig: 80, 216
+  offset: 0, 0
+  index: -1
+hair03
+  rotate: false
+  xy: 224, 457
+  size: 84, 222
+  orig: 84, 222
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 835, 12
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+hair_l_front
+  rotate: true
+  xy: 224, 388
+  size: 54, 136
+  orig: 54, 136
+  offset: 0, 0
+  index: -1
+hair_r_front
+  rotate: false
+  xy: 396, 389
+  size: 30, 84
+  orig: 30, 84
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 537, 529
+  size: 131, 150
+  orig: 131, 150
+  offset: 0, 0
+  index: -1
+l_arm_dwn
+  rotate: false
+  xy: 323, 488
+  size: 62, 191
+  orig: 62, 191
+  offset: 0, 0
+  index: -1
+l_arm_up
+  rotate: false
+  xy: 782, 19
+  size: 38, 67
+  orig: 38, 67
+  offset: 0, 0
+  index: -1
+l_leg_dwn
+  rotate: false
+  xy: 683, 532
+  size: 62, 147
+  orig: 62, 147
+  offset: 0, 0
+  index: -1
+l_leg_up
+  rotate: false
+  xy: 760, 539
+  size: 88, 140
+  orig: 88, 140
+  offset: 0, 0
+  index: -1
+l_robe
+  rotate: true
+  xy: 293, 2
+  size: 105, 242
+  orig: 105, 242
+  offset: 0, 0
+  index: -1
+l_shawl_shoulder
+  rotate: true
+  xy: 745, 170
+  size: 53, 78
+  orig: 53, 78
+  offset: 0, 0
+  index: -1
+mouth_close
+  rotate: false
+  xy: 360, 464
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: false
+  xy: 323, 459
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 732, 18
+  size: 35, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 653, 5
+  size: 102, 64
+  orig: 102, 64
+  offset: 0, 0
+  index: -1
+r_arm_dwn2
+  rotate: false
+  xy: 400, 503
+  size: 122, 176
+  orig: 122, 176
+  offset: 0, 0
+  index: -1
+r_arm_up2
+  rotate: true
+  xy: 745, 101
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+r_leg_dwn
+  rotate: false
+  xy: 616, 237
+  size: 72, 144
+  orig: 72, 144
+  offset: 0, 0
+  index: -1
+r_leg_up
+  rotate: true
+  xy: 515, 122
+  size: 86, 137
+  orig: 86, 137
+  offset: 0, 0
+  index: -1
+r_robe
+  rotate: false
+  xy: 0, 95
+  size: 189, 278
+  orig: 189, 278
+  offset: 0, 0
+  index: -1
+r_shawl_shoulder
+  rotate: true
+  xy: 856, 158
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+robe_back
+  rotate: true
+  xy: 0, 388
+  size: 291, 209
+  orig: 291, 209
+  offset: 0, 0
+  index: -1
+shawl
+  rotate: true
+  xy: 703, 238
+  size: 143, 138
+  orig: 143, 138
+  offset: 0, 0
+  index: -1
+shawl_back
+  rotate: false
+  xy: 326, 122
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+turn_body
+  rotate: true
+  xy: 577, 396
+  size: 118, 130
+  orig: 118, 130
+  offset: 0, 0
+  index: -1
+turn_head
+  rotate: false
+  xy: 479, 223
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+turn_l_shawl_shoulder
+  rotate: true
+  xy: 901, 86
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+turn_r_arm_dwn
+  rotate: false
+  xy: 326, 187
+  size: 138, 186
+  orig: 138, 186
+  offset: 0, 0
+  index: -1
+turn_r_shawl_shoulder
+  rotate: true
+  xy: 667, 128
+  size: 94, 63
+  orig: 94, 63
+  offset: 0, 0
+  index: -1
+turn_shawl
+  rotate: false
+  xy: 441, 388
+  size: 121, 100
+  orig: 121, 100
+  offset: 0, 0
+  index: -1
+weapon_bookback
+  rotate: false
+  xy: 722, 402
+  size: 70, 115
+  orig: 70, 115
+  offset: 0, 0
+  index: -1
+weapon_cover_back
+  rotate: true
+  xy: 441, 123
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+weapon_cover_front
+  rotate: false
+  xy: 807, 396
+  size: 131, 128
+  orig: 131, 128
+  offset: 0, 0
+  index: -1
+weapon_page
+  rotate: false
+  xy: 856, 252
+  size: 89, 129
+  orig: 89, 129
+  offset: 0, 0
+  index: -1

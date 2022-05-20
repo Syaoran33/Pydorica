@@ -1,0 +1,76 @@
+
+h0137s5_umbrella_fly.png
+size: 583,583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon_close_accessories
+  rotate: true
+  xy: 349, 216
+  size: 26, 70
+  orig: 26, 70
+  offset: 0, 0
+  index: -1
+weapon_close_accessories1
+  rotate: true
+  xy: 434, 209
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+weapon_close_accessories2
+  rotate: false
+  xy: 500, 211
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+weapon_close_bow
+  rotate: false
+  xy: 331, 156
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+weapon_close_flower
+  rotate: false
+  xy: 331, 119
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+weapon_close_pole
+  rotate: true
+  xy: 349, 257
+  size: 17, 180
+  orig: 17, 180
+  offset: 0, 0
+  index: -1
+weapon_close_umbrella
+  rotate: false
+  xy: 259, 1
+  size: 57, 217
+  orig: 57, 217
+  offset: 0, 0
+  index: -1
+weapon_open_pole
+  rotate: true
+  xy: 0, 13
+  size: 205, 244
+  orig: 205, 244
+  offset: 0, 0
+  index: -1
+weapon_open_umbrella
+  rotate: true
+  xy: 349, 289
+  size: 294, 234
+  orig: 294, 234
+  offset: 0, 0
+  index: -1
+weapon_open_umbrella1
+  rotate: false
+  xy: 0, 233
+  size: 334, 350
+  orig: 334, 350
+  offset: 0, 0
+  index: -1

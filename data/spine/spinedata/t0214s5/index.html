@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spine_web_player</title>
+    <script src="https://sdorica.gitee.io/spine_web_player/src/spine-player.js"></script>
+    <link rel="stylesheet" href="https://sdorica.gitee.io/spine_web_player/src/spine-player.css">
+    <!-- Welcome to Sdorica Developers, QQ Group at 11311417378
+rrrrrrooodoooooorrrrrrroorrrrrrrrrrrrrrrorrrrrrrrrrrrrrrrrrrrrrrrrrrrriorrirrrrrrrrrririiiiirririoooooooooooooooooooooooooooo
+rrrrrrooodoooooorrrrrrroorrrrrrrrrrrrrrrorrrrrrrrrrrrrrrrrrrrrrrrrrrrriorrirrrrrrrrrririiiiirririoooooooooooooooooooooooooooo
+rrrrrrrrrooooooorrrrrrroorrrrrrrrrrrrrrrorrrrrrrrrrrrrrrrrrrrrrrrrrrrriorrirrrrrrrrrririiiiirririoooooooooooooooooooooooooooo
+rrrrrrrrrrrooorrrrrrrrroorrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrriiirrrirrrrrrrrrririiiiirririoooooooooooooooooooooooooooo
+oorrrrrrroooorrrrrrrrrrirrrrrrrrrrrrrrrrrrrrrrrrrrrrrirrrrrriiiiiiiiiiiiiiiiiiiirrrrririiiiirririoooooooooooooooooooooooooooo
+rrirrrroooorrrrrrrrrrrrriioorrrrrrrrrrrrrrrrrrrririiiiiiiiiiiiiiiiiiiiicciiiiiiiiiiiirriiiiirririoooooooooooooooooooooooooooo
+rririroorrrrrrrrrrrrrrrrrrcroorrrrrrrrrrrrrrrrrrriiiiiiiiiiiicccccccccccccccccccccciiiiiiiiirririoooooooooooooooooooooooooooo
+rrirrooririiiiiiiirrrrrriricrooirrrriiirrrrrrrriiiiiiiiiicccccccccccccccccccccccccccccciiiiirririoooooooooooooooooooooooooooo
+cccrooiiiiiiiiiiiiiiiiiiiiiccioociiiiiiiirrrrriiiiiiiiiiiiccccccccccccccccccccccccccccccccciiiirioooooooooooooooooooooooooooo
+iiiroriiiiiiiiiiiiiiiiiiiiiiccrrrciiiiiiirrriiiiiiiiiic                ccccccccccccccccccccccciiiodoooooooooooooooooooooooooo
+rrrrriiiiiiiiiiiiiiiiiiiiiiiicirrcciiiiiiiriiiiiiicc       cccccc        ccccccccccccccccccccccciidddoooorooooooooooooooooooo
+rrrrriiiiiiiiiiiiiiiiiiiiiiiiciricciiiiiiiiiiiiic      c            cc      cccccccccccccccccccccciddddoooooooooooooooooooooo
+rrrrriiiiiiiiiiiiiiiiiiiiiiiicrrcciiiiiiiiiiiiic    cc     iddddoooooi c      ccccccccccccccccccccccrooooorrooooooooooooooooo
+rrrrriiiiiiiiiiiiiiiiiiiiiiiciriciiiiiiiiiiiic     i     oooddddddddrrooc     ccccccccccccccccccccccirorooororrrrrrrrrrrrrrrr
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiricciiiiiiiiiii      i     oodddddddddoidoooi      ccccccccc         cciroorrrrrdddddddddddddddd
+iiiiiiiiiicccciiiiiiiiiiiiiiricciiiiiiiiiii       c    oodddddddddddddddooc      cccc    c     ci    rooorrrrrrrrrrrrrrrrrrrr
+cccccccccccccccccciiiiiiiiirccciiiiiiiiiiic      c    coddddddddddddddddooi            c   dddddocc   oooorrrrrrrrrrrrrrrrrrr
+cccccccccccccccccccciiiiiirccc iiiiiiiiiii       c    ioddddddddddddddddooi           c  rdddddiodr   oooorrrrrrrrrrrrrrrrrrr
+ccccccccccccccccccccciiiricc  ccciiiiiiii        cc   codoooddddooddddddooc           c  dddddddddoc  roorrrriiiiiiiiiiiiiiii
+ccccccccccc     ccccciiicc c  cciiiiiiiii         i    ooooooooooodddddoor            c cddddddddddr  oriiiiiiiiiiiiiiiiiiiii
+ccccccccccccc  cc cccccc     cciiiiiiiiii          c    ooddoooodddddooor             c  dddddddddor  roiiiiiiiiiiiiiiiiiiiii
+cccccccccccoooooooooorc      cirriiiiiiic           ci   cooooddddooooo               c  odoodododor  oriiiiiiiiiiiiiiiiiiiii
+ooooooooooooooooooooooooooorrrrriiiiiiii               cicc  croooric          c       i  ddddodoooc iooiiiirrrrrrrrrrrrrrrrr
+ooooooooooooooooooooooooorrrrrrriiiiiiii                      c             cricic       i  oooodoc  roriiiiiiiiiiiiiiiiiiiii
+ooooooooooooooooooooooorrrrrrriiiiiiiiii                                cdooricccciicc      ccccc    orrrrrrrrrrrrrrrrrrrrrrr
+ooooooooooooooooooooooorrrrriiiiiiiiiiic                                      ccccc                 coooooooooooooooooooooooo
+ooooooooooooooooorrrorrrrriiiiiiiiiiiii                                                             coooooooooooooooooooooooo
+ooooooooooooooooorrrrrrrriiiiiiiiiiiiii                                                             crooooooooooooooooooooooo
+ooooooooooooooooorrrrrriiiiiiiiiiiiiiii                                                             ciooddddddddddddddddddddd
+rrrrrrrrrrrrrrrrrrrriiiiiiiiiiiiiiiiiii                                                             ciooodddddddddddddddddddd
+iiiiiiiiiiiiiiiioiiiiiiiiiiiiiiiiiiiiii                                                  c   cc ccccciooodddddddddddddddddddd
+iiiiiiiiiiiiiriiiiiiiiiiiiiiiiiiiiiiiic                                                   cccc ccccccrooooooooooooooooooooooo
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiic                                             cccc    cccccccccoooooodddddddddddddddddd
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiic                                     cccccccccccccccccccccccccoooooooddddddddddddddddd
+rrrrrrrrriiiiiiiiiiiiiiiiiiiiiiiiiiiiic                            c         ccccccccccccccccccccccccrooooooooddddddddddddddd
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiic                                       cccccccccccccccccccccccrooooooooooooooooooooooo
+rrrrrrriiiiiiiiiiiiiiiiiiiiiiiiiiiiiii                                       ccccccccc            ccciooooooooodddddddddddddd
+rrrrrrriiiiiiiiiiiiiiiiiiiiiiiiiiiiiii                                                            ccccroooooooooooooooooooooo
+rrrrrriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiic                                                             cccciroooooooooddddddddddd
+rrrrrriiiiiiiiiiiiiiiiiiiiiiiiiiiiiii                                                              cccccirooooooooooooooooooo
+rrrrriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiicc                                                             ccccc  roooooooooooooooooo
+rrrrriiiiiiiiiiiiiiiiiiiiriiiiiiiiiicc                                                              cccccccroooooorrooorrrroo
+rrrriciiiiiiiiiiiiiiiiiiiiiiiiiiiiicc                                                                cccccccoooorrrrrrrrrrroo
+rrrriiiiiiiiiiirriciiirriiiiiiiiiicc                                                                     c  cdorrrrrrrrrrrroo
+oooiiiiiiriiiirrrrrrrriiiiiiiiiiicc                                                                       ccccoorrrrrrrrrrroo
+rrrrrrrrrrrrrrrrrrrrrriiiiiiiiiicc                                                                      cccccccorrrrrrrrorroo
+rrrrrrrrrrrrrrrrrrrrri     ccccci                                                                          rrrrirrrrrrrrorroo
+oorrrrorrrrorrrric         cccccc                                                                                rrrrrrrorroo
+oorrrrorrrroorrric  r   o  cc ccc c                                ccccccc cc                           i         rrrrrrorroo
+oorrrrorrrroorrric  r   o cociriiic                           c cccrodddddddddooicc                cccccc         rrrrrrorroo
+oorrrrorrrroorrric  r   o cociorrcc                           cccccrodddddddddddddddddooooooooric  cccccc         rrrrrrorroo
+oorrrrorrrroorrric  r   o cocissssscc  ic iir    croocccc c  iiccccrodddddddddddodddoooooooooooooooooddddd        rrrrrrorroo
+oorrrrorrrroorrric  r   o cociddddddi  ioooooorroooooo cc c  iiccccroddddddddddooorrci  oroooooooooodddddddddddddddddrrrorroo
+oorrrrorrrroorrric  r   o cociddddddi  oooooorrorroooo cc c  iiccccrodddddddddd          orroooooooodddddddddddddddddrrrorroo -->
+</head>
+<body>
+    <div id="player"></div>
+
+    <script>
+    new spine.SpinePlayer("player", {
+    jsonUrl: "./t0214s5.json",
+    atlasUrl: "./t0214s5.atlas",
+    premultipliedAlpha: false,
+    backgroundColor: "#666666",
+    });
+    </script>
+</body>
+</html>

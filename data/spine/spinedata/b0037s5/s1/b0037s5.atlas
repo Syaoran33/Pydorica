@@ -1,0 +1,223 @@
+
+b0037s5.png
+size: 794,794
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_back_laugh
+  rotate: false
+  xy: 0, 552
+  size: 316, 242
+  orig: 316, 242
+  offset: 0, 0
+  index: -1
+coconut
+  rotate: true
+  xy: 216, 193
+  size: 91, 101
+  orig: 91, 101
+  offset: 0, 0
+  index: -1
+flower_back
+  rotate: true
+  xy: 205, 46
+  size: 132, 129
+  orig: 132, 129
+  offset: 0, 0
+  index: -1
+frame
+  rotate: true
+  xy: 216, 299
+  size: 238, 104
+  orig: 238, 104
+  offset: 0, 0
+  index: -1
+frame1
+  rotate: false
+  xy: 335, 472
+  size: 238, 104
+  orig: 238, 104
+  offset: 0, 0
+  index: -1
+frame1_mouth_redicule1
+  rotate: true
+  xy: 455, 54
+  size: 151, 49
+  orig: 151, 49
+  offset: 0, 0
+  index: -1
+frame1_mouth_redicule2
+  rotate: true
+  xy: 205, 0
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+frame1_mouth_redicule3
+  rotate: false
+  xy: 640, 22
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+frame_mouth_tongue
+  rotate: false
+  xy: 332, 220
+  size: 142, 59
+  orig: 142, 59
+  offset: 0, 0
+  index: -1
+fruit
+  rotate: false
+  xy: 476, 6
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+fruit1
+  rotate: true
+  xy: 709, 225
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+fur
+  rotate: true
+  xy: 0, 21
+  size: 167, 190
+  orig: 167, 190
+  offset: 0, 0
+  index: -1
+l_feet
+  rotate: false
+  xy: 740, 358
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 349, 5
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+l_wing
+  rotate: true
+  xy: 588, 218
+  size: 67, 106
+  orig: 67, 106
+  offset: 0, 0
+  index: -1
+l_wing_bending
+  rotate: false
+  xy: 519, 41
+  size: 106, 70
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+l_wing_bending1
+  rotate: false
+  xy: 722, 71
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+mouth_hokuto_dwn
+  rotate: true
+  xy: 447, 0
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+mouth_hokuto_shadow
+  rotate: true
+  xy: 722, 19
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+packbage_turn
+  rotate: false
+  xy: 331, 591
+  size: 276, 203
+  orig: 276, 203
+  offset: 0, 0
+  index: -1
+paper
+  rotate: false
+  xy: 335, 294
+  size: 177, 163
+  orig: 177, 163
+  offset: 0, 0
+  index: -1
+paper1
+  rotate: true
+  xy: 622, 555
+  size: 239, 167
+  orig: 239, 167
+  offset: 0, 0
+  index: -1
+paper2_back
+  rotate: true
+  xy: 0, 203
+  size: 334, 201
+  orig: 334, 201
+  offset: 0, 0
+  index: -1
+r_feet
+  rotate: false
+  xy: 740, 292
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+r_horn_back
+  rotate: true
+  xy: 588, 300
+  size: 111, 137
+  orig: 111, 137
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 519, 126
+  size: 106, 77
+  orig: 106, 77
+  offset: 0, 0
+  index: -1
+r_strap1
+  rotate: false
+  xy: 527, 299
+  size: 46, 158
+  orig: 46, 158
+  offset: 0, 0
+  index: -1
+r_strap2
+  rotate: true
+  xy: 588, 426
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+r_wing
+  rotate: false
+  xy: 349, 93
+  size: 91, 112
+  orig: 91, 112
+  offset: 0, 0
+  index: -1
+r_wing_akimbo
+  rotate: true
+  xy: 715, 127
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+rope
+  rotate: true
+  xy: 640, 109
+  size: 94, 60
+  orig: 94, 60
+  offset: 0, 0
+  index: -1

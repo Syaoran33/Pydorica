@@ -1,0 +1,405 @@
+
+h0022s4_festival.png
+size: 838,838
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pot
+  rotate: true
+  xy: 67, 101
+  size: 241, 216
+  orig: 241, 216
+  offset: 0, 0
+  index: -1
+Spoon
+  rotate: false
+  xy: 298, 85
+  size: 47, 257
+  orig: 47, 257
+  offset: 0, 0
+  index: -1
+apron
+  rotate: true
+  xy: 360, 135
+  size: 111, 99
+  orig: 111, 99
+  offset: 0, 0
+  index: -1
+apron1
+  rotate: false
+  xy: 360, 261
+  size: 108, 111
+  orig: 108, 111
+  offset: 0, 0
+  index: -1
+apron_pocket
+  rotate: false
+  xy: 749, 328
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+apron_tool
+  rotate: false
+  xy: 814, 786
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+apron_tool1
+  rotate: false
+  xy: 406, 13
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+belt
+  rotate: true
+  xy: 551, 133
+  size: 106, 50
+  orig: 106, 50
+  offset: 0, 0
+  index: -1
+blur2
+  rotate: false
+  xy: 0, 745
+  size: 638, 93
+  orig: 638, 93
+  offset: 0, 0
+  index: -1
+blur3
+  rotate: true
+  xy: 0, 90
+  size: 640, 52
+  orig: 640, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 653, 710
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 616, 117
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 360, 85
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+body_turn
+  rotate: false
+  xy: 515, 464
+  size: 105, 138
+  orig: 105, 138
+  offset: 0, 0
+  index: -1
+burnmask
+  rotate: false
+  xy: 326, 0
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 67, 357
+  size: 222, 236
+  orig: 222, 236
+  offset: 0, 0
+  index: -1
+cape_turn
+  rotate: false
+  xy: 304, 387
+  size: 196, 206
+  orig: 196, 206
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 304, 362
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 676, 0
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+hand_hold
+  rotate: true
+  xy: 496, 74
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 744, 525
+  size: 82, 94
+  orig: 82, 94
+  offset: 0, 0
+  index: -1
+head_turn
+  rotate: true
+  xy: 483, 254
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+head_turn_eyesclose
+  rotate: false
+  xy: 742, 51
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+l_Greaves
+  rotate: false
+  xy: 792, 147
+  size: 33, 76
+  orig: 33, 76
+  offset: 0, 0
+  index: -1
+l_arm_dwn
+  rotate: true
+  xy: 630, 622
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+l_arm_dwn_turn
+  rotate: true
+  xy: 210, 0
+  size: 70, 101
+  orig: 70, 101
+  offset: 0, 0
+  index: -1
+l_arm_up
+  rotate: true
+  xy: 734, 397
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1
+l_arm_up_turn
+  rotate: true
+  xy: 747, 634
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+l_gloves
+  rotate: true
+  xy: 0, 0
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+l_gloves_thumb
+  rotate: false
+  xy: 446, 85
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+l_leg_dwn
+  rotate: true
+  xy: 635, 330
+  size: 52, 99
+  orig: 52, 99
+  offset: 0, 0
+  index: -1
+l_leg_up
+  rotate: false
+  xy: 783, 59
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 93, 5
+  size: 81, 102
+  orig: 81, 102
+  offset: 0, 0
+  index: -1
+l_shoulder_turn
+  rotate: false
+  xy: 635, 397
+  size: 84, 95
+  orig: 84, 95
+  offset: 0, 0
+  index: -1
+l_strap
+  rotate: false
+  xy: 814, 734
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+l_weapon_side2_shadow
+  rotate: true
+  xy: 591, 256
+  size: 59, 103
+  orig: 59, 103
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: true
+  xy: 744, 463
+  size: 47, 91
+  orig: 47, 91
+  offset: 0, 0
+  index: -1
+mouth_close
+  rotate: true
+  xy: 630, 715
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: true
+  xy: 455, 4
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+mouth_open_turn
+  rotate: true
+  xy: 821, 429
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+mouth_smile
+  rotate: false
+  xy: 802, 240
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+mouth_smile_close
+  rotate: true
+  xy: 455, 38
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 742, 5
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 551, 40
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1
+pin
+  rotate: true
+  xy: 802, 276
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+pot_ground
+  rotate: false
+  xy: 67, 608
+  size: 425, 122
+  orig: 425, 122
+  offset: 0, 0
+  index: -1
+r_Greaves
+  rotate: false
+  xy: 616, 159
+  size: 71, 82
+  orig: 71, 82
+  offset: 0, 0
+  index: -1
+r_arm_down
+  rotate: true
+  xy: 515, 354
+  size: 95, 105
+  orig: 95, 105
+  offset: 0, 0
+  index: -1
+r_arm_dwn_attack
+  rotate: true
+  xy: 702, 154
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+r_arm_up
+  rotate: false
+  xy: 607, 29
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+r_gloves
+  rotate: true
+  xy: 709, 238
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+r_gloves_thumb
+  rotate: false
+  xy: 488, 29
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+r_leg_dwn
+  rotate: false
+  xy: 474, 138
+  size: 62, 101
+  orig: 62, 101
+  offset: 0, 0
+  index: -1
+r_leg_up
+  rotate: true
+  xy: 688, 85
+  size: 54, 80
+  orig: 54, 80
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 507, 617
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+r_shoulder_turn
+  rotate: false
+  xy: 635, 507
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+r_strap
+  rotate: false
+  xy: 676, 31
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1

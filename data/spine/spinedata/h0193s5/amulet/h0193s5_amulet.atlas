@@ -1,0 +1,20 @@
+
+h0193s5_amulet.png
+size: 169,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+amulet_white
+  rotate: false
+  xy: 0, 92
+  size: 122, 77
+  orig: 122, 77
+  offset: 0, 0
+  index: -1
+amulet_yellow
+  rotate: false
+  xy: 0, 0
+  size: 122, 77
+  orig: 122, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,272 @@
+
+h0217s5.png
+size: 786,786
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 535, 299
+  size: 133, 176
+  orig: 133, 176
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 188, 0
+  size: 125, 95
+  orig: 125, 95
+  offset: 0, 0
+  index: -1
+earring
+  rotate: false
+  xy: 504, 332
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: true
+  xy: 740, 510
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: true
+  xy: 740, 420
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+gun
+  rotate: true
+  xy: 340, 319
+  size: 104, 149
+  orig: 104, 149
+  offset: 0, 0
+  index: -1
+gun1
+  rotate: true
+  xy: 309, 429
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+gun2
+  rotate: true
+  xy: 309, 390
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+gun3
+  rotate: false
+  xy: 413, 161
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+gunbag
+  rotate: false
+  xy: 527, 180
+  size: 90, 104
+  orig: 90, 104
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 191, 140
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 454, 41
+  size: 109, 97
+  orig: 109, 97
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 566, 110
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 347, 616
+  size: 170, 184
+  orig: 170, 184
+  offset: 0, 0
+  index: -1
+l_arm_dwn
+  rotate: false
+  xy: 626, 40
+  size: 74, 109
+  orig: 74, 109
+  offset: 0, 0
+  index: -1
+l_arm_up
+  rotate: false
+  xy: 100, 14
+  size: 73, 129
+  orig: 73, 129
+  offset: 0, 0
+  index: -1
+l_leg_dwn
+  rotate: false
+  xy: 100, 158
+  size: 76, 177
+  orig: 76, 177
+  offset: 0, 0
+  index: -1
+l_leg_up
+  rotate: false
+  xy: 195, 287
+  size: 99, 166
+  orig: 99, 166
+  offset: 0, 0
+  index: -1
+l_tape1
+  rotate: true
+  xy: 742, 600
+  size: 86, 36
+  orig: 86, 36
+  offset: 0, 0
+  index: -1
+l_tape2
+  rotate: false
+  xy: 726, 275
+  size: 58, 130
+  orig: 58, 130
+  offset: 0, 0
+  index: -1
+mouth_close
+  rotate: true
+  xy: 309, 319
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+mouth_close1
+  rotate: true
+  xy: 504, 365
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: true
+  xy: 309, 354
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+mouth_open1
+  rotate: true
+  xy: 504, 401
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 715, 31
+  size: 59, 101
+  orig: 59, 101
+  offset: 0, 0
+  index: -1
+r_arm_dwn
+  rotate: false
+  xy: 632, 164
+  size: 71, 120
+  orig: 71, 120
+  offset: 0, 0
+  index: -1
+r_arm_up
+  rotate: false
+  xy: 0, 19
+  size: 75, 115
+  orig: 75, 115
+  offset: 0, 0
+  index: -1
+r_leg_dwn
+  rotate: false
+  xy: 0, 149
+  size: 85, 186
+  orig: 85, 186
+  offset: 0, 0
+  index: -1
+r_leg_up
+  rotate: false
+  xy: 308, 39
+  size: 90, 148
+  orig: 90, 148
+  offset: 0, 0
+  index: -1
+r_tape1
+  rotate: true
+  xy: 742, 701
+  size: 85, 42
+  orig: 85, 42
+  offset: 0, 0
+  index: -1
+r_tape2
+  rotate: false
+  xy: 460, 165
+  size: 52, 139
+  orig: 52, 139
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 309, 202
+  size: 136, 102
+  orig: 136, 102
+  offset: 0, 0
+  index: -1
+weapon_guitar
+  rotate: false
+  xy: 0, 468
+  size: 332, 318
+  orig: 332, 318
+  offset: 0, 0
+  index: -1
+weapon_guitar_line1
+  rotate: false
+  xy: 546, 624
+  size: 181, 162
+  orig: 181, 162
+  offset: 0, 0
+  index: -1
+weapon_guitar_line2
+  rotate: false
+  xy: 546, 447
+  size: 179, 162
+  orig: 179, 162
+  offset: 0, 0
+  index: -1
+weapon_guitar_line3
+  rotate: false
+  xy: 347, 438
+  size: 173, 163
+  orig: 173, 163
+  offset: 0, 0
+  index: -1
+weapon_guitar_tape1
+  rotate: false
+  xy: 718, 147
+  size: 59, 113
+  orig: 59, 113
+  offset: 0, 0
+  index: -1
+weapon_guitar_tape2
+  rotate: true
+  xy: 0, 350
+  size: 103, 180
+  orig: 103, 180
+  offset: 0, 0
+  index: -1

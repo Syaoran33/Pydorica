@@ -1,0 +1,412 @@
+
+t0155s3.png
+size: 994,994
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: true
+  xy: 496, 168
+  size: 100, 64
+  orig: 100, 64
+  offset: 0, 0
+  index: -1
+belt1
+  rotate: false
+  xy: 786, 182
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+belt2
+  rotate: false
+  xy: 738, 9
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 251, 582
+  size: 129, 212
+  orig: 129, 212
+  offset: 0, 0
+  index: -1
+body_turn
+  rotate: false
+  xy: 395, 601
+  size: 128, 195
+  orig: 128, 195
+  offset: 0, 0
+  index: -1
+desertwaterball2_ball
+  rotate: false
+  xy: 357, 8
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+desertwaterball2_shell
+  rotate: false
+  xy: 495, 821
+  size: 181, 173
+  orig: 181, 173
+  offset: 0, 0
+  index: -1
+desertwaterball4_ball
+  rotate: false
+  xy: 322, 228
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+desertwaterball4_ball1
+  rotate: false
+  xy: 775, 125
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+desertwaterball4_flower
+  rotate: true
+  xy: 888, 231
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+desertwaterball4_shell
+  rotate: false
+  xy: 699, 629
+  size: 118, 186
+  orig: 118, 186
+  offset: 0, 0
+  index: -1
+desertwaterball4_shell1
+  rotate: false
+  xy: 538, 636
+  size: 146, 170
+  orig: 146, 170
+  offset: 0, 0
+  index: -1
+desertwaterball4_shell2
+  rotate: false
+  xy: 298, 389
+  size: 115, 178
+  orig: 115, 178
+  offset: 0, 0
+  index: -1
+desertwaterball4_shell3
+  rotate: false
+  xy: 886, 826
+  size: 100, 168
+  orig: 100, 168
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 814, 238
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 690, 193
+  size: 81, 43
+  orig: 81, 43
+  offset: 0, 0
+  index: -1
+eye_close_turn
+  rotate: false
+  xy: 954, 553
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 510, 1
+  size: 81, 43
+  orig: 81, 43
+  offset: 0, 0
+  index: -1
+eye_open_turn
+  rotate: false
+  xy: 606, 1
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 322, 161
+  size: 52, 159
+  orig: 52, 159
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 793, 440
+  size: 74, 111
+  orig: 74, 111
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 690, 251
+  size: 42, 109
+  orig: 42, 109
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 428, 416
+  size: 88, 170
+  orig: 88, 170
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 832, 613
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1
+hair_back1
+  rotate: true
+  xy: 674, 432
+  size: 85, 104
+  orig: 85, 104
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 691, 830
+  size: 164, 180
+  orig: 164, 180
+  offset: 0, 0
+  index: -1
+head_turn
+  rotate: false
+  xy: 0, 169
+  size: 174, 186
+  orig: 174, 186
+  offset: 0, 0
+  index: -1
+headwear
+  rotate: true
+  xy: 531, 416
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+headwear1
+  rotate: true
+  xy: 889, 318
+  size: 107, 44
+  orig: 107, 44
+  offset: 0, 0
+  index: -1
+headwear2
+  rotate: true
+  xy: 667, 2
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+headwear_turn
+  rotate: false
+  xy: 483, 283
+  size: 105, 118
+  orig: 105, 118
+  offset: 0, 0
+  index: -1
+l_arm_dwn
+  rotate: false
+  xy: 809, 323
+  size: 65, 102
+  orig: 65, 102
+  offset: 0, 0
+  index: -1
+l_arm_dwn1
+  rotate: false
+  xy: 589, 93
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+l_arm_up
+  rotate: false
+  xy: 603, 270
+  size: 72, 131
+  orig: 72, 131
+  offset: 0, 0
+  index: -1
+l_leg_dwn
+  rotate: true
+  xy: 538, 558
+  size: 63, 135
+  orig: 63, 135
+  offset: 0, 0
+  index: -1
+l_leg_mid
+  rotate: false
+  xy: 680, 119
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+l_leg_up
+  rotate: false
+  xy: 189, 160
+  size: 118, 188
+  orig: 118, 188
+  offset: 0, 0
+  index: -1
+l_skirt
+  rotate: false
+  xy: 948, 338
+  size: 36, 113
+  orig: 36, 113
+  offset: 0, 0
+  index: -1
+mouth_close
+  rotate: false
+  xy: 948, 318
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: false
+  xy: 775, 96
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+mouth_open1
+  rotate: true
+  xy: 645, 59
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 575, 194
+  size: 61, 100
+  orig: 61, 100
+  offset: 0, 0
+  index: -1
+r_arm_blade
+  rotate: true
+  xy: 919, 466
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+r_arm_dwn
+  rotate: true
+  xy: 824, 529
+  size: 69, 115
+  orig: 69, 115
+  offset: 0, 0
+  index: -1
+r_arm_dwn1
+  rotate: true
+  xy: 690, 308
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+r_arm_up
+  rotate: true
+  xy: 688, 532
+  size: 82, 121
+  orig: 82, 121
+  offset: 0, 0
+  index: -1
+r_leg_dwn
+  rotate: false
+  xy: 189, 0
+  size: 65, 145
+  orig: 65, 145
+  offset: 0, 0
+  index: -1
+r_leg_mid
+  rotate: true
+  xy: 510, 59
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+r_leg_up
+  rotate: true
+  xy: 832, 718
+  size: 93, 162
+  orig: 93, 162
+  offset: 0, 0
+  index: -1
+r_skirt
+  rotate: false
+  xy: 269, 3
+  size: 73, 142
+  orig: 73, 142
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 202, 363
+  size: 81, 198
+  orig: 81, 198
+  offset: 0, 0
+  index: -1
+skirt_accessories
+  rotate: true
+  xy: 589, 59
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+skirt_back
+  rotate: false
+  xy: 0, 576
+  size: 236, 218
+  orig: 236, 218
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 0, 809
+  size: 275, 185
+  orig: 275, 185
+  offset: 0, 0
+  index: -1
+veil1
+  rotate: false
+  xy: 290, 811
+  size: 190, 183
+  orig: 190, 183
+  offset: 0, 0
+  index: -1
+veil1_turn
+  rotate: false
+  xy: 0, 370
+  size: 187, 191
+  orig: 187, 191
+  offset: 0, 0
+  index: -1
+veil2
+  rotate: false
+  xy: 680, 53
+  size: 80, 51
+  orig: 80, 51
+  offset: 0, 0
+  index: -1
+veil_back
+  rotate: false
+  xy: 0, 11
+  size: 174, 143
+  orig: 174, 143
+  offset: 0, 0
+  index: -1

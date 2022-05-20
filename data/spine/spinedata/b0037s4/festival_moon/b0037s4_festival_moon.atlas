@@ -1,0 +1,412 @@
+
+b0037s4_festival_moon.png
+size: 964,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 491
+  size: 260, 240
+  orig: 260, 240
+  offset: 0, 0
+  index: -1
+body_back_laugh
+  rotate: false
+  xy: 0, 746
+  size: 284, 218
+  orig: 284, 218
+  offset: 0, 0
+  index: -1
+body_fall
+  rotate: false
+  xy: 0, 55
+  size: 229, 163
+  orig: 229, 163
+  offset: 0, 0
+  index: -1
+body_turn
+  rotate: false
+  xy: 587, 726
+  size: 258, 238
+  orig: 258, 238
+  offset: 0, 0
+  index: -1
+body_turn1
+  rotate: false
+  xy: 0, 233
+  size: 256, 243
+  orig: 256, 243
+  offset: 0, 0
+  index: -1
+body_turn2
+  rotate: false
+  xy: 271, 224
+  size: 255, 243
+  orig: 255, 243
+  offset: 0, 0
+  index: -1
+body_turn3
+  rotate: false
+  xy: 548, 467
+  size: 252, 244
+  orig: 252, 244
+  offset: 0, 0
+  index: -1
+body_turn4
+  rotate: false
+  xy: 275, 482
+  size: 258, 241
+  orig: 258, 241
+  offset: 0, 0
+  index: -1
+body_turn5
+  rotate: false
+  xy: 299, 738
+  size: 273, 226
+  orig: 273, 226
+  offset: 0, 0
+  index: -1
+effect_angry_shadow
+  rotate: false
+  xy: 541, 216
+  size: 121, 78
+  orig: 121, 78
+  offset: 0, 0
+  index: -1
+effect_angry_shadow1
+  rotate: false
+  xy: 158, 3
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+frame1_mouth_redicule1
+  rotate: true
+  xy: 815, 574
+  size: 136, 44
+  orig: 136, 44
+  offset: 0, 0
+  index: -1
+frame1_mouth_redicule2
+  rotate: true
+  xy: 864, 166
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+frame1_mouth_redicule3
+  rotate: false
+  xy: 369, 83
+  size: 80, 126
+  orig: 80, 126
+  offset: 0, 0
+  index: -1
+frame_mouth_tongue
+  rotate: true
+  xy: 464, 81
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: true
+  xy: 914, 257
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+l_eye_close
+  rotate: false
+  xy: 664, 139
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+l_eye_close1
+  rotate: true
+  xy: 906, 374
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+l_eye_dizzy
+  rotate: false
+  xy: 628, 2
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+l_eye_pity
+  rotate: true
+  xy: 914, 209
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+l_eye_pity1
+  rotate: false
+  xy: 664, 106
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+l_eye_redicule
+  rotate: true
+  xy: 0, 0
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+l_eye_socket
+  rotate: true
+  xy: 722, 87
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+l_eye_socket_pity
+  rotate: true
+  xy: 549, 5
+  size: 42, 64
+  orig: 42, 64
+  offset: 0, 0
+  index: -1
+l_eyebrow
+  rotate: false
+  xy: 932, 56
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+l_feet
+  rotate: false
+  xy: 913, 146
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+l_horn
+  rotate: false
+  xy: 692, 312
+  size: 124, 140
+  orig: 124, 140
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 459, 0
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+l_wing
+  rotate: false
+  xy: 831, 373
+  size: 60, 95
+  orig: 60, 95
+  offset: 0, 0
+  index: -1
+l_wing_bending
+  rotate: true
+  xy: 901, 505
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+l_wing_bending1
+  rotate: false
+  xy: 86, 3
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+l_wing_fall
+  rotate: false
+  xy: 831, 305
+  size: 95, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+l_wing_turn
+  rotate: false
+  xy: 532, 128
+  size: 117, 73
+  orig: 117, 73
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 869, 52
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+mouth_angry_dwn
+  rotate: true
+  xy: 714, 11
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+mouth_angry_shadow
+  rotate: true
+  xy: 680, 0
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+mouth_angry_teeth
+  rotate: true
+  xy: 339, 30
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+mouth_angry_up
+  rotate: true
+  xy: 941, 326
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+mouth_pity
+  rotate: true
+  xy: 932, 90
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: false
+  xy: 798, 72
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+r_eye_close
+  rotate: false
+  xy: 831, 222
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+r_eye_close1
+  rotate: false
+  xy: 244, 0
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+r_eye_dizzy
+  rotate: true
+  xy: 722, 145
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+r_eye_pity
+  rotate: true
+  xy: 906, 435
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+r_eye_redicule
+  rotate: true
+  xy: 677, 222
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+r_eye_socket
+  rotate: false
+  xy: 746, 228
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+r_eye_socket_pity
+  rotate: false
+  xy: 815, 483
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+r_eye_socket_pity1
+  rotate: true
+  xy: 48, 0
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+r_eyebrow
+  rotate: false
+  xy: 660, 68
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+r_feet
+  rotate: false
+  xy: 869, 85
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+r_horn
+  rotate: false
+  xy: 541, 309
+  size: 136, 143
+  orig: 136, 143
+  offset: 0, 0
+  index: -1
+r_horn_back
+  rotate: false
+  xy: 860, 841
+  size: 100, 123
+  orig: 100, 123
+  offset: 0, 0
+  index: -1
+r_horn_fall
+  rotate: false
+  xy: 244, 74
+  size: 110, 135
+  orig: 110, 135
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 874, 615
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+r_wing
+  rotate: false
+  xy: 860, 725
+  size: 82, 101
+  orig: 82, 101
+  offset: 0, 0
+  index: -1
+r_wing_akimbo
+  rotate: false
+  xy: 369, 0
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+r_wing_fall
+  rotate: false
+  xy: 549, 62
+  size: 96, 51
+  orig: 96, 51
+  offset: 0, 0
+  index: -1
+r_wing_turn1
+  rotate: false
+  xy: 793, 146
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1

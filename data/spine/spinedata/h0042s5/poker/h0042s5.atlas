@@ -1,0 +1,139 @@
+
+h0042s5.png
+size: 801,801
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poker_1
+  rotate: false
+  xy: 276, 186
+  size: 56, 205
+  orig: 56, 205
+  offset: 0, 0
+  index: -1
+poker_2
+  rotate: false
+  xy: 447, 579
+  size: 129, 222
+  orig: 129, 222
+  offset: 0, 0
+  index: -1
+poker_4
+  rotate: false
+  xy: 305, 566
+  size: 127, 235
+  orig: 127, 235
+  offset: 0, 0
+  index: -1
+poker_body
+  rotate: false
+  xy: 81, 406
+  size: 209, 395
+  orig: 209, 395
+  offset: 0, 0
+  index: -1
+poker_collar
+  rotate: true
+  xy: 192, 160
+  size: 231, 69
+  orig: 231, 69
+  offset: 0, 0
+  index: -1
+poker_head_1
+  rotate: false
+  xy: 305, 411
+  size: 133, 140
+  orig: 133, 140
+  offset: 0, 0
+  index: -1
+poker_head_2
+  rotate: false
+  xy: 591, 645
+  size: 160, 156
+  orig: 160, 156
+  offset: 0, 0
+  index: -1
+poker_head_4
+  rotate: false
+  xy: 462, 267
+  size: 122, 134
+  orig: 122, 134
+  offset: 0, 0
+  index: -1
+poker_l_hand_dwn
+  rotate: false
+  xy: 585, 436
+  size: 92, 103
+  orig: 92, 103
+  offset: 0, 0
+  index: -1
+poker_l_hand_up
+  rotate: true
+  xy: 591, 554
+  size: 76, 135
+  orig: 76, 135
+  offset: 0, 0
+  index: -1
+poker_l_leg
+  rotate: false
+  xy: 766, 735
+  size: 29, 66
+  orig: 29, 66
+  offset: 0, 0
+  index: -1
+poker_r_hand_dwn
+  rotate: false
+  xy: 347, 253
+  size: 100, 143
+  orig: 100, 143
+  offset: 0, 0
+  index: -1
+poker_r_hand_up
+  rotate: true
+  xy: 599, 303
+  size: 118, 73
+  orig: 118, 73
+  offset: 0, 0
+  index: -1
+poker_r_leg
+  rotate: true
+  xy: 81, 7
+  size: 34, 72
+  orig: 34, 72
+  offset: 0, 0
+  index: -1
+poker_weapon
+  rotate: false
+  xy: 0, 0
+  size: 66, 801
+  orig: 66, 801
+  offset: 0, 0
+  index: -1
+speaker
+  rotate: true
+  xy: 81, 56
+  size: 335, 96
+  orig: 335, 96
+  offset: 0, 0
+  index: -1
+speaker_flag
+  rotate: false
+  xy: 453, 416
+  size: 117, 148
+  orig: 117, 148
+  offset: 0, 0
+  index: -1
+speaker_line1
+  rotate: true
+  xy: 347, 227
+  size: 11, 57
+  orig: 11, 57
+  offset: 0, 0
+  index: -1
+speaker_line2
+  rotate: false
+  xy: 192, 80
+  size: 15, 65
+  orig: 15, 65
+  offset: 0, 0
+  index: -1
