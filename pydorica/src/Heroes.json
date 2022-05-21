@@ -1,0 +1,1039 @@
+[{
+    "type": "Hero",
+    "name": "古魯瓦德",
+    "code": "b0001",
+    "soul": "gold",
+    "rank": 2,
+    "hp": 330,
+    "atk": 56,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "荷絲緹雅",
+    "code": "e0002",
+    "soul": "white",
+    "rank": 2,
+    "hp": 360,
+    "atk": 52,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "黯月",
+    "code": "h0003",
+    "soul": "black",
+    "rank": 3,
+    "hp": 225,
+    "atk": 70,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "貓眼",
+    "code": "h0004",
+    "soul": "black",
+    "rank": 2,
+    "hp": 300,
+    "atk": 60,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "奧斯塔",
+    "code": "h0005",
+    "soul": "white",
+    "rank": 3,
+    "hp": 225,
+    "atk": 70,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "羅傑",
+    "code": "h0006",
+    "soul": "gold",
+    "rank": 2,
+    "hp": 300,
+    "atk": 60,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "蒂卡",
+    "code": "h0010",
+    "soul": "white",
+    "rank": 2,
+    "hp": 285,
+    "atk": 62,
+    "alter": 4
+}, {
+    "type": "Hero",
+    "name": "實驗體",
+    "code": "m0011",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 330,
+    "atk": 56,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "庫爾",
+    "code": "b0015",
+    "soul": "white",
+    "rank": 2,
+    "hp": 330,
+    "atk": 56,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "龐",
+    "code": "t0017",
+    "soul": "gold",
+    "rank": 2,
+    "hp": 360,
+    "atk": 52,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "娜雅",
+    "code": "h0018",
+    "soul": "black",
+    "rank": 2,
+    "hp": 240,
+    "atk": 68,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "諾瓦",
+    "code": "h0097",
+    "soul": "black",
+    "rank": 3,
+    "hp": 285,
+    "atk": 50,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "希歐",
+    "code": "h0020",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 330,
+    "atk": 56,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "安潔莉亞",
+    "code": "h0021",
+    "soul": "white",
+    "rank": 2,
+    "hp": 240,
+    "atk": 68,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "迪蘭",
+    "code": "h0022",
+    "soul": "gold",
+    "rank": 2,
+    "hp": 360,
+    "atk": 52,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "西奧多",
+    "code": "h0023",
+    "soul": "white",
+    "rank": 3,
+    "hp": 315,
+    "atk": 58,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "賈漢",
+    "code": "h0024",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 360,
+    "atk": 52,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "夏爾",
+    "code": "h0025",
+    "soul": "black",
+    "rank": 3,
+    "hp": 255,
+    "atk": 66,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "法蒂瑪",
+    "code": "t0026",
+    "soul": "black",
+    "rank": 2,
+    "hp": 225,
+    "atk": 70,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "揚波",
+    "code": "t0027",
+    "soul": "black",
+    "rank": 3,
+    "hp": 225,
+    "atk": 70,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "卡努拉",
+    "code": "b0028",
+    "soul": "gold",
+    "rank": 2,
+    "hp": 360,
+    "atk": 52,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "納杰爾",
+    "code": "h0029",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 360,
+    "atk": 54,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "琉",
+    "code": "h0030",
+    "soul": "white",
+    "rank": 3,
+    "hp": 270,
+    "atk": 64,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "璃",
+    "code": "h0031",
+    "soul": "black",
+    "rank": 3,
+    "hp": 255,
+    "atk": 66,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "刃",
+    "code": "t0032",
+    "soul": "black",
+    "rank": 2,
+    "hp": 285,
+    "atk": 62,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "碎牙",
+    "code": "t0033",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 345,
+    "atk": 54,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "夏洛克",
+    "code": "r0034",
+    "soul": "white",
+    "rank": 3,
+    "hp": 255,
+    "atk": 66,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "尼德",
+    "code": "h0035",
+    "soul": "black",
+    "rank": 2,
+    "hp": 300,
+    "atk": 60,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "麗莎",
+    "code": "h0036",
+    "soul": "white",
+    "rank": 3,
+    "hp": 270,
+    "atk": 64,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "普吉",
+    "code": "b0037",
+    "soul": "white",
+    "rank": 2,
+    "hp": 300,
+    "atk": 60,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "雪爾森",
+    "code": "h0138",
+    "soul": "black",
+    "rank": 3,
+    "hp": 285,
+    "atk": 62,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "莫里斯",
+    "code": "h0043",
+    "soul": "black",
+    "rank": 3,
+    "hp": 285,
+    "atk": 62,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "雪莉",
+    "code": "h0047",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 270,
+    "atk": 64,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "傑羅姆",
+    "code": "h0048",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 330,
+    "atk": 56
+}, {
+    "type": "Hero",
+    "name": "蠢熊勇士",
+    "code": "t0049",
+    "soul": "white",
+    "rank": 3,
+    "hp": 270,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "蘇菲",
+    "code": "h0150",
+    "soul": "black",
+    "rank": 3,
+    "hp": 255,
+    "atk": 68,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "盧恩",
+    "code": "h0151",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 315,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "雷薩",
+    "code": "h0152",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 300,
+    "atk": 64
+}, {
+    "type": "Hero",
+    "name": "戴菲斯",
+    "code": "t0153",
+    "soul": "black",
+    "rank": 3,
+    "hp": 225,
+    "atk": 70
+}, {
+    "type": "Hero",
+    "name": "米莎",
+    "code": "h0154",
+    "soul": "white",
+    "rank": 3,
+    "hp": 270,
+    "atk": 64,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "克拉克",
+    "code": "h0159",
+    "soul": "white",
+    "rank": 3,
+    "hp": 300,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "瑪莉亞",
+    "code": "r0160",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 270,
+    "atk": 68
+}, {
+    "type": "Hero",
+    "name": "瓊安",
+    "code": "h0161",
+    "soul": "black",
+    "rank": 3,
+    "hp": 315,
+    "atk": 60,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "PAFF",
+    "code": "h0174",
+    "soul": "white",
+    "rank": 5,
+    "hp": 285,
+    "atk": 62
+}, {
+    "type": "Hero",
+    "name": "NEKO",
+    "code": "h0175",
+    "soul": "black",
+    "rank": 5,
+    "hp": 255,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "Nora",
+    "code": "h0176",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 360,
+    "atk": 54
+}, {
+    "type": "Hero",
+    "name": "Ivy",
+    "code": "h0177",
+    "soul": "black",
+    "rank": 5,
+    "hp": 240,
+    "atk": 68
+}, {
+    "type": "Hero",
+    "name": "ConneR",
+    "code": "h0216",
+    "soul": "white",
+    "rank": 5,
+    "hp": 270,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "Cherry",
+    "code": "h0217",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 300,
+    "atk": 64
+}, {
+    "type": "Hero",
+    "name": "海德",
+    "code": "h0134",
+    "soul": "white",
+    "rank": 3,
+    "hp": 360,
+    "atk": 52
+}, {
+    "type": "Hero",
+    "name": "芙蕾莉卡",
+    "code": "h0135",
+    "soul": "white",
+    "rank": 3,
+    "hp": 225,
+    "atk": 70,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "卡蓮",
+    "code": "h0136",
+    "soul": "black",
+    "rank": 3,
+    "hp": 270,
+    "atk": 64
+}, {
+    "type": "Hero",
+    "name": "泉",
+    "code": "h0137",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 285,
+    "atk": 62,
+    "alter": 4
+}, {
+    "type": "Hero",
+    "name": "Deemo",
+    "code": "h0162",
+    "soul": "black",
+    "rank": 5,
+    "hp": 300,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "愛麗絲",
+    "code": "h0163",
+    "soul": "white",
+    "rank": 3,
+    "hp": 285,
+    "atk": 62
+}, {
+    "type": "Hero",
+    "name": "面具小姐",
+    "code": "h0164",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 285,
+    "atk": 62
+}, {
+    "type": "Hero",
+    "name": "艾利歐",
+    "code": "h0133",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 285,
+    "atk": 62,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "黛安娜",
+    "code": "t0155",
+    "soul": "white",
+    "rank": 3,
+    "hp": 225,
+    "atk": 70,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "甲申",
+    "code": "t0156",
+    "soul": "white",
+    "rank": 3,
+    "hp": 360,
+    "atk": 52
+}, {
+    "type": "Hero",
+    "name": "米蘭達",
+    "code": "h0157",
+    "soul": "black",
+    "rank": 3,
+    "hp": 240,
+    "atk": 70,
+    "alter": 2
+}, {
+    "type": "Hero",
+    "name": "洛",
+    "code": "t0158",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 285,
+    "atk": 64,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "迪蘭SP",
+    "code": "h0009",
+    "soul": "black",
+    "rank": 5,
+    "hp": 300,
+    "atk": 58
+}, {
+    "type": "Hero",
+    "name": "黯月SP",
+    "code": "h0013",
+    "soul": "white",
+    "rank": 5,
+    "hp": 240,
+    "atk": 70
+}, {
+    "type": "Hero",
+    "name": "納杰爾SP",
+    "code": "h0038",
+    "soul": "black",
+    "rank": 5,
+    "hp": 240,
+    "atk": 70
+}, {
+    "type": "Hero",
+    "name": "璃SP",
+    "code": "h0040",
+    "soul": "white",
+    "rank": 5,
+    "hp": 240,
+    "atk": 70
+}, {
+    "type": "Hero",
+    "name": "安潔莉亞SP",
+    "code": "h0007",
+    "soul": "black",
+    "rank": 5,
+    "hp": 300,
+    "atk": 62
+}, {
+    "type": "Hero",
+    "name": "希歐SP",
+    "code": "h0008",
+    "soul": "white",
+    "rank": 5,
+    "hp": 285,
+    "atk": 64
+}, {
+    "type": "Hero",
+    "name": "貓眼SP",
+    "code": "h0016",
+    "soul": "white",
+    "rank": 5,
+    "hp": 270,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "麗莎SP",
+    "code": "h0041",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 255,
+    "atk": 70
+}, {
+    "type": "Hero",
+    "name": "琉SP",
+    "code": "h0014",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 315,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "蒂卡SP",
+    "code": "h0045",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 330,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "荷絲緹雅SP",
+    "code": "e0046",
+    "soul": "black",
+    "rank": 5,
+    "hp": 270,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "諾瓦SP",
+    "code": "h0042",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 315,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "法蒂瑪SP",
+    "code": "t0039",
+    "soul": "white",
+    "rank": 5,
+    "hp": 255,
+    "atk": 68
+}, {
+    "type": "Hero",
+    "name": "夏爾SP",
+    "code": "h0012",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 330,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "娜雅MZ",
+    "code": "h0165",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 350,
+    "atk": 70
+}, {
+    "type": "Hero",
+    "name": "雪爾森MZ",
+    "code": "h0166",
+    "soul": "white",
+    "rank": 5,
+    "hp": 280,
+    "atk": 65
+}, {
+    "type": "Hero",
+    "name": "安潔莉亞MZ",
+    "code": "h0167",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 330,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "希歐MZ",
+    "code": "h0168",
+    "soul": "black",
+    "rank": 5,
+    "hp": 260,
+    "atk": 65
+}, {
+    "type": "Hero",
+    "name": "龐SP",
+    "code": "t0044",
+    "soul": "black",
+    "rank": 5,
+    "hp": 270,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "芙蕾莉卡SP",
+    "code": "h0169",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 330,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "泉SP",
+    "code": "h0172",
+    "soul": "black",
+    "rank": 5,
+    "hp": 270,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "雪莉SP",
+    "code": "h0170",
+    "soul": "white",
+    "rank": 5,
+    "hp": 330,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "蘇菲SP",
+    "code": "h0171",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 300,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "雅辛托斯SP",
+    "code": "h0191",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 330,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "傑羅姆SP",
+    "code": "h0192",
+    "soul": "black",
+    "rank": 5,
+    "hp": 240,
+    "atk": 70
+}, {
+    "type": "Hero",
+    "name": "瑪莉亞SP",
+    "code": "r0173",
+    "soul": "white",
+    "rank": 5,
+    "hp": 345,
+    "atk": 56
+}, {
+    "type": "Hero",
+    "name": "璃MZ",
+    "code": "h0198",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 330,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "芙蕾莉卡MZ",
+    "code": "h0199",
+    "soul": "black",
+    "rank": 5,
+    "hp": 330,
+    "atk": 58
+}, {
+    "type": "Hero",
+    "name": "黯月MZ",
+    "code": "h0200",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 360,
+    "atk": 54
+}, {
+    "type": "Hero",
+    "name": "泉MZ",
+    "code": "h0201",
+    "soul": "white",
+    "rank": 5,
+    "hp": 315,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "瓊安SP",
+    "code": "h0193",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 330,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "艾利歐SP",
+    "code": "h0194",
+    "soul": "white",
+    "rank": 5,
+    "hp": 240,
+    "atk": 70
+}, {
+    "type": "Hero",
+    "name": "普吉SP",
+    "code": "b0202",
+    "soul": "black",
+    "rank": 5,
+    "hp": 315,
+    "atk": 62
+}, {
+    "type": "Hero",
+    "name": "雪爾森SP",
+    "code": "h0203",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 360,
+    "atk": 52
+}, {
+    "type": "Hero",
+    "name": "揚波SP",
+    "code": "t0204",
+    "soul": "white",
+    "rank": 5,
+    "hp": 330,
+    "atk": 62
+}, {
+    "type": "Hero",
+    "name": "夏洛克SP",
+    "code": "r0205",
+    "soul": "black",
+    "rank": 5,
+    "hp": 255,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "雷薩SP",
+    "code": "h0196",
+    "soul": "white",
+    "rank": 5,
+    "hp": 270,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "米蘭達SP",
+    "code": "h0197",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 285,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "洛SP",
+    "code": "t0212",
+    "soul": "white",
+    "rank": 5,
+    "hp": 270,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "羅傑SP",
+    "code": "h0213",
+    "soul": "black",
+    "rank": 5,
+    "hp": 285,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "黛安娜MZ",
+    "code": "t0207",
+    "soul": "black",
+    "rank": 5,
+    "hp": 270,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "貓眼MZ",
+    "code": "h0208",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 360,
+    "atk": 54
+}, {
+    "type": "Hero",
+    "name": "諾瓦MZ",
+    "code": "h0209",
+    "soul": "white",
+    "rank": 5,
+    "hp": 270,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "傑羅姆MZ",
+    "code": "h0210",
+    "soul": "white",
+    "rank": 5,
+    "hp": 285,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "海德SP",
+    "code": "h0215",
+    "soul": "black",
+    "rank": 5,
+    "hp": 315,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "黛安娜SP",
+    "code": "t0214",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 300,
+    "atk": 64
+}, {
+    "type": "Hero",
+    "name": "羋羋SP",
+    "code": "h0224",
+    "soul": "black",
+    "rank": 5,
+    "hp": 255,
+    "atk": 68
+}, {
+    "type": "Hero",
+    "name": "娜雅SP",
+    "code": "h0221",
+    "soul": "white",
+    "rank": 5,
+    "hp": 315,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "汀朵伊姆SP",
+    "code": "h0220",
+    "soul": "black",
+    "rank": 5,
+    "hp": 285,
+    "atk": 66
+}, {
+    "type": "Hero",
+    "name": "堯SP",
+    "code": "t0218",
+    "soul": "gold",
+    "rank": 5,
+    "hp": 300,
+    "atk": 62
+}, {
+    "type": "Hero",
+    "name": "碎牙",
+    "code": "t0033",
+    "soul": "black",
+    "rank": 3,
+    "hp": 330,
+    "atk": 9999,
+    "alter": 2
+},{
+    "type": "Hero",
+    "name": "艾斯",
+    "code": "h0179",
+    "soul": "black",
+    "rank": 3,
+    "hp": 270,
+    "atk": 68,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "崔梨花",
+    "code": "t0180",
+    "soul": "white",
+    "rank": 3,
+    "hp": 330,
+    "atk": 58
+}, {
+    "type": "Hero",
+    "name": "卷雲",
+    "code": "t0181",
+    "soul": "white",
+    "rank": 3,
+    "hp": 300,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "秀賢",
+    "code": "t0182",
+    "soul": "black",
+    "rank": 3,
+    "hp": 300,
+    "atk": 62
+}, {
+    "type": "Hero",
+    "name": "汀朵伊姆",
+    "code": "h0183",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 315,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "勇鉉",
+    "code": "t0184",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 330,
+    "atk": 58
+}, {
+    "type": "Hero",
+    "name": "吉哈薩哈",
+    "code": "h0185",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 360,
+    "atk": 52
+}, {
+    "type": "Hero",
+    "name": "羋羋",
+    "code": "h0186",
+    "soul": "white",
+    "rank": 3,
+    "hp": 330,
+    "atk": 58,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "戰之介",
+    "code": "t0187",
+    "soul": "gold",
+    "rank": 3,
+    "hp": 360,
+    "atk": 54
+}, {
+    "type": "Hero",
+    "name": "千雪",
+    "code": "t0188",
+    "soul": "white",
+    "rank": 3,
+    "hp": 315,
+    "atk": 60
+}, {
+    "type": "Hero",
+    "name": "堯",
+    "code": "t0189",
+    "soul": "black",
+    "rank": 3,
+    "hp": 330,
+    "atk": 60,
+    "alter": 3
+}, {
+    "type": "Hero",
+    "name": "貝雅塔",
+    "code": "h0190",
+    "soul": "black",
+    "rank": 3,
+    "hp": 255,
+    "atk": 68
+}]
