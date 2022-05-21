@@ -3,3 +3,4 @@ httpx
 pandas
 xlsxwriter
 UnityPy
+pillow

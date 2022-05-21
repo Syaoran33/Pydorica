@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-from pydorica.utils.zipper import Zipper
-from pydorica.plugins.imperium import Imperium
-from pydorica.plugins.charAssets import CharAssets
-from pydorica.plugins.assetsbundle import AssetsBundle
-from pydorica.plugins.assetsbundle import Extractor
+from pydorica import Zipper
+from pydorica import Imperium
+from pydorica import CharAssets
+from pydorica import AssetsBundle
+from pydorica import Extractor
+from pydorica import Spine
 
 # Imperium
 # IMPERIUM DIR NEEDED, OR A EMPTY EXPORT
@@ -28,3 +29,6 @@ from pydorica.plugins.assetsbundle import Extractor
 
 # AssetsBundle Extractor
 # Extractor.extract('data/AssetsBundle/')
+
+# Spine
+# Spine.SpineChef('data/spinedata/')
