@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-from pydorica import Zipper
 from pydorica import Imperium
 from pydorica import CharAssets
 from pydorica import AssetsBundle
@@ -10,17 +9,14 @@ from pydorica import Spine
 
 # Imperium
 # IMPERIUM DIR NEEDED, OR A EMPTY EXPORT
-# imp = Imperium('data/imperium/')
-# imp.unpack('data/imperium/unpacked/')
-# imp.converter()
+# imp = Imperium('data/imperium/','data/output/')
+# imp.unpack(overwrite=True)
+# imp.convert(overwrite=True,to_excel=True,to_json=True)
 
 # CharAssets
-# CharAssets.download('data/imperium/unpacked/charAssets.json','data/charAssets.zip')
-
-# Unzip CharAssets
-# zipper = Zipper('data/charAssets.zip')
-# zipper.unpack_all('data/charAssets/')
-# zipper.unzip_c('data/charAssets/')
+# CharAssets.download_bundle('data/output/imperium/unpacked/charAssets.json','data/output/charAssets/charAssets.zip')
+# chara = CharAssets('data/output/charAssets/charAssets.zip','data/output/')
+# chara.unpack_all()
 
 # AssetsBundle
 # ab = AssetsBundle('data/AssetsBundle')

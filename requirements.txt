@@ -1,6 +1,0 @@
-msgpack
-httpx
-pandas
-xlsxwriter
-UnityPy
-pillow

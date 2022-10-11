@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "pydorica"
+version = "0.1.0"
+description = "A module for easily extracting Sdorica gamedata."
+authors = ["Syaoran <SyaoranCheung@outlook.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+msgpack = "^1.0.4"
+httpx = "^0.23.0"
+pandas = "^1.5.0"
+xlsxwriter = "^3.0.3"
+unitypy = "^1.9.15"
+pillow = "^9.2.0"
+loguru = "^0.6.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+#[[tool.poetry.source]]
+#default = true
+#name = "tsinghua"
+#url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+
+[[tool.poetry.source]]
+default = true
+name = "aliyun"
+url = "https://mirrors.aliyun.com/pypi/simple/"

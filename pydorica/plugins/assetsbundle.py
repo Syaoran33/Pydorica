@@ -38,7 +38,7 @@ class Extractor:
                             data = obj.read()
                             # create dest based on original path
                             dest = save_path.joinpath(*path.split("/"))
-                            dest.parent.mkdir(777, parents=True, exist_ok=True)
+                            dest.parent.mkdir(parents=True, exist_ok=True)
                             extracted_path = Path(str(dest).replace(dest.suffix,'.png'))
                             if extracted_path.is_file():
                                 extracted_path =str(extracted_path) + f'@{str(data.path_id)}'
@@ -49,7 +49,7 @@ class Extractor:
                             data = obj.read()
                             # create dest based on original path
                             dest = save_path.joinpath(*path.split("/"))
-                            dest.parent.mkdir(777, parents=True, exist_ok=True)
+                            dest.parent.mkdir(parents=True, exist_ok=True)
                             extracted_path = dest
                             if extracted_path.is_file():
                                 extracted_path =str(extracted_path) + f'@{str(data.path_id)}'
@@ -60,7 +60,7 @@ class Extractor:
 
                         elif obj.type.name == "MonoBehaviour":
                             dest = save_path.joinpath(*path.split("/"))
-                            dest.parent.mkdir(777, parents=True, exist_ok=True)
+                            dest.parent.mkdir(parents=True, exist_ok=True)
                             # export
                             if obj.serialized_type.nodes:
                                 #save decoded data
@@ -85,7 +85,7 @@ class Extractor:
                             items = clip.samples.items()
                             for name, data in items:
                                 dest = save_path.joinpath(*path.split("/"))
-                                dest.parent.mkdir(777, parents=True, exist_ok=True)
+                                dest.parent.mkdir(parents=True, exist_ok=True)
                                 extracted_path = Path(str(dest).replace(dest.suffix,'.wav'))
                                 if extracted_path.is_file():
                                     extracted_path =str(extracted_path) + f'@{str(data.path_id)}'
@@ -101,7 +101,7 @@ class Extractor:
                             data = obj.read()
                             # create dest based on original path
                             dest = save_path.joinpath(*path.split("/"))
-                            dest.parent.mkdir(777, parents=True, exist_ok=True)
+                            dest.parent.mkdir(parents=True, exist_ok=True)
 
                             if data.m_FontData:
                                 extracted_path = Path(str(dest).replace(dest.suffix,'.ttf'))
@@ -120,7 +120,7 @@ class Extractor:
                             data = obj.read()
                             # create dest based on original path
                             dest = save_path.joinpath(*path.split("/"))
-                            dest.parent.mkdir(777, parents=True, exist_ok=True)
+                            dest.parent.mkdir(parents=True, exist_ok=True)
                             extracted_path = Path(str(dest).replace(dest.suffix,'.txt'))
 
                             if extracted_path.is_file():
@@ -196,7 +196,7 @@ class AssetsBundle:
 
     async def download(self, ab: str, manifest: dict, save_dir_path: str):
         dir_path = Path(save_dir_path)
-        dir_path.mkdir(777, exist_ok=True, parents=True)
+        dir_path.mkdir(exist_ok=True, parents=True)
         url = manifest.get(ab)['L']
         res = await self.client.get(url, timeout=3000)
         with open(dir_path.joinpath(ab), 'wb') as save_file:
